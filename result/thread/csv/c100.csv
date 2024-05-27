@@ -1,0 +1,1001 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1.71563E+12,6088,HTTP Request,200,OK,ConTest 1-25,,TRUE,,147,116,100,100,https://localhost:8443/,6084,0,2072
+1.71563E+12,7320,HTTP Request,200,OK,ConTest 1-14,,TRUE,,147,116,100,100,https://localhost:8443/,7320,0,3343
+1.71563E+12,7881,HTTP Request,200,OK,ConTest 1-35,,TRUE,,147,116,100,100,https://localhost:8443/,7881,0,5497
+1.71563E+12,11482,HTTP Request,200,OK,ConTest 1-23,,TRUE,,147,116,100,100,https://localhost:8443/,11482,0,8228
+1.71563E+12,8125,HTTP Request,200,OK,ConTest 1-25,,TRUE,,147,116,100,100,https://localhost:8443/,8125,0,6653
+1.71563E+12,6993,HTTP Request,200,OK,ConTest 1-35,,TRUE,,147,116,100,100,https://localhost:8443/,6993,0,3042
+1.71563E+12,20234,HTTP Request,200,OK,ConTest 1-27,,TRUE,,147,116,100,100,https://localhost:8443/,20234,0,16725
+1.71563E+12,7880,HTTP Request,200,OK,ConTest 1-35,,TRUE,,147,116,100,100,https://localhost:8443/,7880,0,4449
+1.71563E+12,15785,HTTP Request,200,OK,ConTest 1-23,,TRUE,,147,116,100,100,https://localhost:8443/,15784,0,11002
+1.71563E+12,14268,HTTP Request,200,OK,ConTest 1-25,,TRUE,,147,116,100,100,https://localhost:8443/,14268,0,10441
+1.71563E+12,5991,HTTP Request,200,OK,ConTest 1-23,,TRUE,,147,116,100,100,https://localhost:8443/,5991,0,2429
+1.71563E+12,14057,HTTP Request,200,OK,ConTest 1-27,,TRUE,,147,116,100,100,https://localhost:8443/,14056,0,10098
+1.71563E+12,38646,HTTP Request,200,OK,ConTest 1-49,,TRUE,,147,116,100,100,https://localhost:8443/,38646,0,36537
+1.71563E+12,38527,HTTP Request,200,OK,ConTest 1-88,,TRUE,,147,116,100,100,https://localhost:8443/,38526,0,34613
+1.71563E+12,44608,HTTP Request,200,OK,ConTest 1-30,,TRUE,,147,116,100,100,https://localhost:8443/,44608,0,41052
+1.71563E+12,6349,HTTP Request,200,OK,ConTest 1-49,,TRUE,,147,116,100,100,https://localhost:8443/,6348,0,3095
+1.71563E+12,13153,HTTP Request,200,OK,ConTest 1-30,,TRUE,,147,116,100,100,https://localhost:8443/,13152,0,10432
+1.71563E+12,39381,HTTP Request,200,OK,ConTest 1-27,,TRUE,,147,116,100,100,https://localhost:8443/,39381,0,36509
+1.71563E+12,103113,HTTP Request,200,OK,ConTest 1-28,,TRUE,,147,116,100,100,https://localhost:8443/,103113,0,99521
+1.71563E+12,105147,HTTP Request,200,OK,ConTest 1-29,,TRUE,,147,116,100,100,https://localhost:8443/,105146,0,101008
+1.71563E+12,23796,HTTP Request,200,OK,ConTest 1-28,,TRUE,,147,116,100,100,https://localhost:8443/,23795,0,20399
+1.71563E+12,133561,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-4,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133561
+1.71563E+12,133474,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-19,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133474
+1.71563E+12,133561,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-7,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133561
+1.71563E+12,133566,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-5,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133566
+1.71563E+12,133182,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-56,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133182
+1.71563E+12,132994,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-75,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132994
+1.71563E+12,133329,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-41,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133329
+1.71563E+12,132974,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-77,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132974
+1.71563E+12,133639,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-3,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133639
+1.71563E+12,132783,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-96,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132783
+1.71563E+12,133651,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-6,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133651
+1.71563E+12,132916,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-84,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132916
+1.71563E+12,132946,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-81,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132946
+1.71563E+12,133535,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-22,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133535
+1.71563E+12,133515,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-24,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133515
+1.71563E+12,133156,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-60,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133156
+1.71563E+12,133026,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-73,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133026
+1.71563E+12,133306,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-45,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133306
+1.71563E+12,133067,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-69,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133067
+1.71563E+12,133287,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-47,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133287
+1.71563E+12,133548,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-21,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133548
+1.71563E+12,133653,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-8,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133653
+1.71563E+12,132818,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-94,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132818
+1.71563E+12,133653,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-2,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133653
+1.71563E+12,133653,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-10,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133653
+1.71563E+12,133638,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-12,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133638
+1.71563E+12,132898,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-86,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132898
+1.71563E+12,133385,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-37,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133384
+1.71563E+12,133597,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-16,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133597
+1.71563E+12,133434,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-36,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133434
+1.71563E+12,133206,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-59,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133206
+1.71563E+12,132875,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-92,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132875
+1.71563E+12,133690,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-1,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133690
+1.71563E+12,133365,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-43,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133365
+1.71563E+12,133683,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-11,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133683
+1.71563E+12,133449,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-34,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133449
+1.71563E+12,133430,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-51,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133430
+1.71563E+12,133260,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-68,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133260
+1.71563E+12,133029,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-91,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133029
+1.71563E+12,133010,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-93,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133010
+1.71563E+12,133050,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-89,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133050
+1.71563E+12,133240,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-70,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133240
+1.71563E+12,133111,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-83,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133111
+1.71563E+12,132940,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-100,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132940
+1.71563E+12,133150,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-79,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133150
+1.71563E+12,133550,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-39,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133549
+1.71563E+12,133301,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-64,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133301
+1.71563E+12,132958,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-99,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132958
+1.71563E+12,133080,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-87,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133080
+1.71563E+12,133238,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-71,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133238
+1.71563E+12,133319,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-63,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133319
+1.71563E+12,133798,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-15,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133798
+1.71563E+12,133150,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-80,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133150
+1.71563E+12,133450,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-50,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133450
+1.71563E+12,133688,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-26,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133688
+1.71563E+12,133329,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-62,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133329
+1.71563E+12,133210,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-74,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133209
+1.71563E+12,133300,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-65,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133299
+1.71563E+12,133410,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-54,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133409
+1.71563E+12,133627,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-32,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133627
+1.71563E+12,133050,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-90,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133049
+1.71563E+12,133470,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-48,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133469
+1.71563E+12,133571,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-38,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133570
+1.71563E+12,133370,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-58,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133370
+1.71563E+12,133529,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-42,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133529
+1.71563E+12,133510,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-44,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133510
+1.71563E+12,133191,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-76,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133191
+1.71563E+12,133780,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-17,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133780
+1.71563E+12,133279,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-67,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133279
+1.71563E+12,133421,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-53,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133420
+1.71563E+12,132999,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-95,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132999
+1.71563E+12,132971,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-98,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132971
+1.71563E+12,133490,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-46,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133490
+1.71563E+12,133231,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-72,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133231
+1.71563E+12,133771,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-18,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133771
+1.71563E+12,133381,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-57,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133381
+1.71563E+12,133640,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-31,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133640
+1.71563E+12,133101,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-85,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133101
+1.71563E+12,133821,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-13,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133821
+1.71563E+12,133131,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-82,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133131
+1.71563E+12,133430,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-52,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133430
+1.71563E+12,133290,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-66,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133290
+1.71563E+12,133550,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-40,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133550
+1.71563E+12,133401,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-55,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133401
+1.71563E+12,132981,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-97,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132981
+1.71563E+12,133171,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-78,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133171
+1.71563E+12,133340,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-61,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133340
+1.71563E+12,131496,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-14,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,131496
+1.71563E+12,7362,HTTP Request,200,OK,ConTest 1-78,,TRUE,,147,116,100,100,https://localhost:8443/,7361,0,3729
+1.71563E+12,9073,HTTP Request,200,OK,ConTest 1-57,,TRUE,,147,116,100,100,https://localhost:8443/,9073,0,6046
+1.71563E+12,10906,HTTP Request,200,OK,ConTest 1-63,,TRUE,,147,116,100,100,https://localhost:8443/,10906,0,8217
+1.71563E+12,13033,HTTP Request,200,OK,ConTest 1-86,,TRUE,,147,116,100,100,https://localhost:8443/,13032,0,10790
+1.71563E+12,13430,HTTP Request,200,OK,ConTest 1-7,,TRUE,,147,116,100,100,https://localhost:8443/,13430,0,9568
+1.71563E+12,4540,HTTP Request,200,OK,ConTest 1-57,,TRUE,,147,116,100,100,https://localhost:8443/,4540,0,2418
+1.71563E+12,13160,HTTP Request,200,OK,ConTest 1-14,,TRUE,,147,116,100,100,https://localhost:8443/,13160,0,10876
+1.71563E+12,131371,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-35,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,131371
+1.71563E+12,21925,HTTP Request,200,OK,ConTest 1-42,,TRUE,,147,116,100,100,https://localhost:8443/,21925,0,18944
+1.71563E+12,5656,HTTP Request,200,OK,ConTest 1-14,,TRUE,,147,116,100,100,https://localhost:8443/,5656,0,3103
+1.71563E+12,130675,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-25,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,130675
+1.71563E+12,159079,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-33,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,159079
+1.71563E+12,13177,HTTP Request,200,OK,ConTest 1-7,,TRUE,,147,116,100,100,https://localhost:8443/,13177,0,10630
+1.71563E+12,131179,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-23,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,131179
+1.71563E+12,13359,HTTP Request,200,OK,ConTest 1-35,,TRUE,,147,116,100,100,https://localhost:8443/,13359,0,10035
+1.71563E+12,22038,HTTP Request,200,OK,ConTest 1-57,,TRUE,,147,116,100,100,https://localhost:8443/,22038,0,18539
+1.71563E+12,130369,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-88,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,130369
+1.71563E+12,39465,HTTP Request,200,OK,ConTest 1-98,,TRUE,,147,116,100,100,https://localhost:8443/,39465,0,35940
+1.71563E+12,14586,HTTP Request,200,OK,ConTest 1-7,,TRUE,,147,116,100,100,https://localhost:8443/,14585,0,10741
+1.71563E+12,6000,HTTP Request,200,OK,ConTest 1-57,,TRUE,,147,116,100,100,https://localhost:8443/,5999,0,3170
+1.71563E+12,134544,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-49,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,134544
+1.71563E+12,6639,HTTP Request,200,OK,ConTest 1-98,,TRUE,,147,116,100,100,https://localhost:8443/,6638,0,3783
+1.71563E+12,7241,HTTP Request,200,OK,ConTest 1-57,,TRUE,,147,116,100,100,https://localhost:8443/,7241,0,3924
+1.71563E+12,7254,HTTP Request,200,OK,ConTest 1-98,,TRUE,,147,116,100,100,https://localhost:8443/,7253,0,3259
+1.71563E+12,6880,HTTP Request,200,OK,ConTest 1-57,,TRUE,,147,116,100,100,https://localhost:8443/,6880,0,4132
+1.71563E+12,132160,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-30,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132160
+1.71563E+12,194924,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-20,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,194924
+1.71563E+12,195288,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-9,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,195288
+1.71563E+12,6434,HTTP Request,200,OK,ConTest 1-30,,TRUE,,147,116,100,100,https://localhost:8443/,6434,0,3578
+1.71563E+12,6043,HTTP Request,200,OK,ConTest 1-20,,TRUE,,147,116,100,100,https://localhost:8443/,6042,0,2636
+1.71563E+12,131535,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-27,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,131535
+1.71563E+12,8057,HTTP Request,200,OK,ConTest 1-27,,TRUE,,147,116,100,100,https://localhost:8443/,8056,0,3006
+1.71563E+12,80117,HTTP Request,200,OK,ConTest 1-10,,TRUE,,147,116,100,100,https://localhost:8443/,80116,0,77285
+1.71563E+12,23011,HTTP Request,200,OK,ConTest 1-30,,TRUE,,147,116,100,100,https://localhost:8443/,23011,0,19509
+1.71563E+12,130993,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-29,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,130993
+1.71563E+12,107302,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-89,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,107302
+1.71563E+12,81897,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-33,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,81897
+1.71563E+12,107378,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-100,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,107378
+1.71563E+12,107446,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-74,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,107446
+1.71563E+12,107526,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-83,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,107526
+1.71563E+12,71742,HTTP Request,200,OK,ConTest 1-88,,TRUE,,147,116,100,100,https://localhost:8443/,71741,0,68497
+1.71563E+12,10362,HTTP Request,200,OK,ConTest 1-89,,TRUE,,147,116,100,100,https://localhost:8443/,10362,0,6056
+1.71563E+12,38106,HTTP Request,200,OK,ConTest 1-10,,TRUE,,147,116,100,100,https://localhost:8443/,38106,0,35438
+1.71563E+12,14365,HTTP Request,200,OK,ConTest 1-88,,TRUE,,147,116,100,100,https://localhost:8443/,14365,0,10284
+1.71563E+12,127812,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-26,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,127812
+1.71563E+12,134696,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-28,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,134696
+1.71563E+12,22128,HTTP Request,200,OK,ConTest 1-100,,TRUE,,147,116,100,100,https://localhost:8443/,22128,0,19275
+1.71563E+12,132982,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-43,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132982
+1.71563E+12,132820,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-18,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132820
+1.71563E+12,133017,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-12,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133017
+1.71563E+12,133020,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-22,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133020
+1.71563E+12,132838,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-68,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132838
+1.71563E+12,132983,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-11,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132983
+1.71563E+12,132824,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-58,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132824
+1.71563E+12,132837,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-64,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132837
+1.71563E+12,133024,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-56,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133024
+1.71563E+12,132983,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-1,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132983
+1.71563E+12,133034,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-3,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133034
+1.71563E+12,132820,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-61,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132820
+1.71563E+12,133024,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-69,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133024
+1.71563E+12,132827,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-53,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132827
+1.71563E+12,132823,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-40,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132823
+1.71563E+12,133039,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-41,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133039
+1.71563E+12,133039,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-75,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133039
+1.71563E+12,133170,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-4,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133170
+1.71563E+12,133076,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-2,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133076
+1.71563E+12,133097,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-94,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133097
+1.71563E+12,132903,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-90,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132903
+1.71563E+12,133095,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-16,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133095
+1.71563E+12,133098,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-47,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133098
+1.71563E+12,132899,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-17,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132899
+1.71563E+12,132903,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-32,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132903
+1.71563E+12,133098,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-81,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133098
+1.71563E+12,133112,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-77,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133112
+1.71563E+12,133097,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-21,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133097
+1.71563E+12,132897,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-13,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132897
+1.71563E+12,132917,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-70,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132916
+1.71563E+12,133098,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-84,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133098
+1.71563E+12,132903,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-87,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132903
+1.71563E+12,132902,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-48,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132902
+1.71563E+12,132904,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-99,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132903
+1.71563E+12,132915,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-39,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132915
+1.71563E+12,133098,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-8,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133098
+1.71563E+12,132904,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-80,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132904
+1.71563E+12,133117,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-92,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133117
+1.71563E+12,132958,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-38,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132958
+1.71563E+12,132972,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-91,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132972
+1.71563E+12,133154,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-45,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133154
+1.71563E+12,133242,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-5,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133242
+1.71563E+12,133154,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-24,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133154
+1.71563E+12,132972,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-51,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132972
+1.71563E+12,132971,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-50,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132971
+1.71563E+12,132968,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-95,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132968
+1.71563E+12,132968,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-67,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132968
+1.71563E+12,133044,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-76,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133044
+1.71563E+12,133047,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-71,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133047
+1.71563E+12,133040,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-82,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133040
+1.71563E+12,133041,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-52,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133041
+1.71563E+12,133047,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-15,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133047
+1.71563E+12,133242,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-6,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133242
+1.71563E+12,133040,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-55,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133040
+1.71563E+12,133040,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-97,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133040
+1.71563E+12,133047,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-65,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133047
+1.71563E+12,133042,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-46,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133042
+1.71563E+12,133040,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-66,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133040
+1.71563E+12,133047,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-44,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133047
+1.71563E+12,133043,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-31,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133043
+1.71563E+12,133042,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-85,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133042
+1.71563E+12,133044,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-72,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133044
+1.71563E+12,133061,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-79,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133061
+1.71563E+12,133243,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-73,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133243
+1.71563E+12,133206,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-59,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133206
+1.71563E+12,133258,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-60,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133258
+1.71563E+12,133255,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-37,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133255
+1.71563E+12,133221,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-36,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133221
+1.71563E+12,133076,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-93,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133076
+1.71563E+12,133096,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-54,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133096
+1.71563E+12,133096,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-62,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133096
+1.71563E+12,133384,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-19,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133384
+1.71563E+12,133254,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-34,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133254
+1.71563E+12,133295,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-96,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133295
+1.71563E+12,6199,HTTP Request,200,OK,ConTest 1-100,,TRUE,,147,116,100,100,https://localhost:8443/,6199,0,3204
+1.71563E+12,130741,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-78,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,130740
+1.71563E+12,20947,HTTP Request,200,OK,ConTest 1-89,,TRUE,,147,116,100,100,https://localhost:8443/,20947,0,18544
+1.71563E+12,12500,HTTP Request,200,OK,ConTest 1-28,,TRUE,,147,116,100,100,https://localhost:8443/,12500,0,10246
+1.71563E+12,130375,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-86,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,130375
+1.71563E+12,7561,HTTP Request,200,OK,ConTest 1-100,,TRUE,,147,116,100,100,https://localhost:8443/,7561,0,3532
+1.71563E+12,132384,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-63,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132384
+1.71563E+12,4488,HTTP Request,200,OK,ConTest 1-63,,TRUE,,147,116,100,100,https://localhost:8443/,4488,0,2193
+1.71563E+12,9467,HTTP Request,200,OK,ConTest 1-28,,TRUE,,147,116,100,100,https://localhost:8443/,9467,0,6578
+1.71563E+12,70841,HTTP Request,200,OK,ConTest 1-27,,TRUE,,147,116,100,100,https://localhost:8443/,70840,0,68339
+1.71563E+12,129474,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-14,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,129474
+1.71563E+12,131401,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-42,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,131401
+1.71563E+12,21775,HTTP Request,200,OK,ConTest 1-32,,TRUE,,147,116,100,100,https://localhost:8443/,21774,0,19114
+1.71563E+12,133125,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-25,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133125
+1.71563E+12,9181,HTTP Request,200,OK,ConTest 1-27,,TRUE,,147,116,100,100,https://localhost:8443/,9181,0,3486
+1.71563E+12,7886,HTTP Request,200,OK,ConTest 1-14,,TRUE,,147,116,100,100,https://localhost:8443/,7885,0,4821
+1.71563E+12,132835,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-23,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132835
+1.71563E+12,129865,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-35,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,129865
+1.71563E+12,14175,HTTP Request,200,OK,ConTest 1-25,,TRUE,,147,116,100,100,https://localhost:8443/,14174,0,11493
+1.71563E+12,133207,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-7,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133207
+1.71563E+12,132897,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-49,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132897
+1.71563E+12,72290,HTTP Request,200,OK,ConTest 1-74,,TRUE,,147,116,100,100,https://localhost:8443/,72290,0,69095
+1.71563E+12,38409,HTTP Request,200,OK,ConTest 1-86,,TRUE,,147,116,100,100,https://localhost:8443/,38409,0,35899
+1.71563E+12,10027,HTTP Request,200,OK,ConTest 1-7,,TRUE,,147,116,100,100,https://localhost:8443/,10027,0,5856
+1.71563E+12,130952,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-98,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,130952
+1.71563E+12,21359,HTTP Request,200,OK,ConTest 1-35,,TRUE,,147,116,100,100,https://localhost:8443/,21359,0,18329
+1.71563E+12,133354,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-57,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133354
+1.71563E+12,132892,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-9,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132892
+1.71563E+12,132507,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-20,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132507
+1.71563E+12,72951,HTTP Request,200,OK,ConTest 1-100,,TRUE,,147,116,100,100,https://localhost:8443/,72951,0,69015
+1.71563E+12,70005,HTTP Request,200,OK,ConTest 1-63,,TRUE,,147,116,100,100,https://localhost:8443/,70004,0,66183
+1.71563E+12,5340,HTTP Request,200,OK,ConTest 1-63,,TRUE,,147,116,100,100,https://localhost:8443/,5340,0,2576
+1.71563E+12,132970,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-29,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132970
+1.71563E+12,132852,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-83,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132852
+1.71563E+12,133227,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-33,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133227
+1.71563E+12,5359,HTTP Request,200,OK,ConTest 1-33,,TRUE,,147,116,100,100,https://localhost:8443/,5359,0,2985
+1.71563E+12,23378,HTTP Request,200,OK,ConTest 1-63,,TRUE,,147,116,100,100,https://localhost:8443/,23377,0,19444
+1.71563E+12,70056,HTTP Request,200,OK,ConTest 1-74,,TRUE,,147,116,100,100,https://localhost:8443/,70056,0,67665
+1.71563E+12,14554,HTTP Request,200,OK,ConTest 1-29,,TRUE,,147,116,100,100,https://localhost:8443/,14553,0,10717
+1.71563E+12,132807,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-10,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132807
+1.71563E+12,8815,HTTP Request,200,OK,ConTest 1-33,,TRUE,,147,116,100,100,https://localhost:8443/,8815,0,5226
+1.71563E+12,134191,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-88,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,134191
+1.71563E+12,7405,HTTP Request,200,OK,ConTest 1-10,,TRUE,,147,116,100,100,https://localhost:8443/,7404,0,3785
+1.71563E+12,133290,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-26,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133290
+1.71563E+12,71469,HTTP Request,200,OK,ConTest 1-9,,TRUE,,147,116,100,100,https://localhost:8443/,71468,0,68525
+1.71563E+12,132866,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-93,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132866
+1.71563E+12,132866,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-36,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132866
+1.71563E+12,132879,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-73,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132879
+1.71563E+12,132880,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-44,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132880
+1.71563E+12,133025,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-21,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133025
+1.71563E+12,132882,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-71,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132882
+1.71563E+12,132882,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-66,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132882
+1.71563E+12,133099,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-69,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133099
+1.71563E+12,132834,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-54,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132834
+1.71563E+12,132834,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-96,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132834
+1.71563E+12,132971,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-38,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132971
+1.71563E+12,132945,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-72,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132945
+1.71563E+12,133163,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-41,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133163
+1.71563E+12,132945,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-31,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132945
+1.71563E+12,132976,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-46,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132976
+1.71563E+12,133143,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-2,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133143
+1.71563E+12,133120,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-87,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133120
+1.71563E+12,132976,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-52,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132976
+1.71563E+12,133120,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-70,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133119
+1.71563E+12,133225,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-64,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133225
+1.71563E+12,132958,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-62,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132958
+1.71563E+12,133006,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-97,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133006
+1.71563E+12,133246,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-40,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133246
+1.71563E+12,133029,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-55,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133029
+1.71563E+12,133028,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-79,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133028
+1.71563E+12,133246,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-53,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133246
+1.71563E+12,133172,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-8,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133172
+1.71563E+12,133118,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-92,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133118
+1.71563E+12,133251,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-3,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133251
+1.71563E+12,133176,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-39,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133176
+1.71563E+12,133248,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-68,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133248
+1.71563E+12,133178,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-17,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133178
+1.71563E+12,133253,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-11,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133253
+1.71563E+12,133127,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-91,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133127
+1.71563E+12,133260,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-18,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133260
+1.71563E+12,133038,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-82,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133038
+1.71563E+12,133256,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-75,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133255
+1.71563E+12,133128,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-5,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133128
+1.71563E+12,133258,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-58,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133258
+1.71563E+12,133183,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-16,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133183
+1.71563E+12,133258,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-56,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133258
+1.71563E+12,133263,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-43,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133263
+1.71563E+12,133024,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-60,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133024
+1.71563E+12,133212,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-95,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133212
+1.71563E+12,133357,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-12,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133357
+1.71563E+12,133224,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-45,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133224
+1.71563E+12,133357,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-22,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133357
+1.71563E+12,133134,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-85,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133134
+1.71563E+12,133131,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-34,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133131
+1.71563E+12,133322,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-99,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133322
+1.71563E+12,133179,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-76,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133179
+1.71563E+12,133429,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-77,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133429
+1.71563E+12,133429,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-81,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133429
+1.71563E+12,133452,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-4,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133452
+1.71563E+12,133429,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-47,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133429
+1.71563E+12,133285,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-15,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133285
+1.71563E+12,133429,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-84,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133429
+1.71563E+12,133429,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-90,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133429
+1.71563E+12,133237,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-19,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133237
+1.71563E+12,133503,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-1,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133503
+1.71563E+12,7288,HTTP Request,200,OK,ConTest 1-26,,TRUE,,147,116,100,100,https://localhost:8443/,7287,0,3397
+1.71563E+12,133137,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-78,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133137
+1.71563E+12,132907,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-89,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132906
+1.71563E+12,9669,HTTP Request,200,OK,ConTest 1-38,,TRUE,,147,116,100,100,https://localhost:8443/,9669,0,5819
+1.71563E+12,9934,HTTP Request,200,OK,ConTest 1-26,,TRUE,,147,116,100,100,https://localhost:8443/,9934,0,5692
+1.71563E+12,9517,HTTP Request,200,OK,ConTest 1-78,,TRUE,,147,116,100,100,https://localhost:8443/,9516,0,4965
+1.71563E+12,131675,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-28,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,131675
+1.71563E+12,7608,HTTP Request,200,OK,ConTest 1-38,,TRUE,,147,116,100,100,https://localhost:8443/,7607,0,5031
+1.71563E+12,131832,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-32,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,131832
+1.71563E+12,133336,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-42,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133336
+1.71563E+12,7981,HTTP Request,200,OK,ConTest 1-78,,TRUE,,147,116,100,100,https://localhost:8443/,7981,0,3953
+1.71563E+12,13202,HTTP Request,200,OK,ConTest 1-26,,TRUE,,147,116,100,100,https://localhost:8443/,13202,0,9996
+1.71563E+12,132432,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-27,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132432
+1.71563E+12,26548,HTTP Request,200,OK,ConTest 1-21,,TRUE,,147,116,100,100,https://localhost:8443/,26547,0,23136
+1.71563E+12,10190,HTTP Request,200,OK,ConTest 1-38,,TRUE,,147,116,100,100,https://localhost:8443/,10190,0,3800
+1.71563E+12,6919,HTTP Request,200,OK,ConTest 1-42,,TRUE,,147,116,100,100,https://localhost:8443/,6919,0,4078
+1.71563E+12,4988,HTTP Request,200,OK,ConTest 1-78,,TRUE,,147,116,100,100,https://localhost:8443/,4988,0,2651
+1.71563E+12,133216,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-23,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133216
+1.71563E+12,33431,HTTP Request,200,OK,ConTest 1-66,,TRUE,,147,116,100,100,https://localhost:8443/,33430,0,28623
+1.71563E+12,8724,HTTP Request,200,OK,ConTest 1-27,,TRUE,,147,116,100,100,https://localhost:8443/,8724,0,6646
+1.71563E+12,6110,HTTP Request,200,OK,ConTest 1-23,,TRUE,,147,116,100,100,https://localhost:8443/,6110,0,2678
+1.71563E+12,39259,HTTP Request,200,OK,ConTest 1-1,,TRUE,,147,116,100,100,https://localhost:8443/,39258,0,35915
+1.71563E+12,134352,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-25,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,134352
+1.71563E+12,14907,HTTP Request,200,OK,ConTest 1-78,,TRUE,,147,116,100,100,https://localhost:8443/,14906,0,10638
+1.71563E+12,6748,HTTP Request,200,OK,ConTest 1-23,,TRUE,,147,116,100,100,https://localhost:8443/,6748,0,3680
+1.71563E+12,130390,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-86,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,130390
+1.71563E+12,150851,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-14,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,150851
+1.71563E+12,133222,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-49,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133222
+1.71563E+12,10286,HTTP Request,200,OK,ConTest 1-1,,TRUE,,147,116,100,100,https://localhost:8443/,10286,0,6459
+1.71563E+12,8096,HTTP Request,200,OK,ConTest 1-78,,TRUE,,147,116,100,100,https://localhost:8443/,8096,0,5253
+1.71563E+12,132092,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-35,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,132092
+1.71563E+12,133135,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-7,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133135
+1.71563E+12,133102,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-98,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133102
+1.71563E+12,70437,HTTP Request,200,OK,ConTest 1-74,,TRUE,,147,116,100,100,https://localhost:8443/,70436,0,67388
+1.71563E+12,133363,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-57,text,FALSE,,3161,0,100,100,https://localhost:8443/,0,0,133363
+1.71563E+12,21776,HTTP Request,200,OK,ConTest 1-27,,TRUE,,147,116,100,100,https://localhost:8443/,21776,0,19003
+1.71563E+12,17520,HTTP Request,200,OK,ConTest 1-25,,TRUE,,147,116,99,99,https://localhost:8443/,17520,0,14678
+1.71563E+12,133177,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-20,text,FALSE,,3161,0,99,99,https://localhost:8443/,0,0,133177
+1.71563E+12,40494,HTTP Request,200,OK,ConTest 1-21,,TRUE,,147,116,99,99,https://localhost:8443/,40493,0,36919
+1.71563E+12,40207,HTTP Request,200,OK,ConTest 1-42,,TRUE,,147,116,99,99,https://localhost:8443/,40207,0,37919
+1.71563E+12,70493,HTTP Request,200,OK,ConTest 1-8,,TRUE,,147,116,99,99,https://localhost:8443/,70493,0,67575
+1.71563E+12,71757,HTTP Request,200,OK,ConTest 1-93,,TRUE,,147,116,99,99,https://localhost:8443/,71757,0,68840
+1.71563E+12,252244,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-30,text,FALSE,,3161,0,99,99,https://localhost:8443/,0,0,252244
+1.71563E+12,6945,HTTP Request,200,OK,ConTest 1-20,,TRUE,,147,116,99,99,https://localhost:8443/,6945,0,3715
+1.71563E+12,209714,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-37,text,FALSE,,3161,0,99,99,https://localhost:8443/,0,0,209714
+1.71563E+12,209887,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-13,text,FALSE,,3161,0,99,99,https://localhost:8443/,0,0,209886
+1.71563E+12,209961,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-61,text,FALSE,,3161,0,99,99,https://localhost:8443/,0,0,209960
+1.71563E+12,209934,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-67,text,FALSE,,3161,0,99,99,https://localhost:8443/,0,0,209934
+1.71563E+12,209935,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-50,text,FALSE,,3161,0,99,99,https://localhost:8443/,0,0,209935
+1.71563E+12,76853,HTTP Request,200,OK,ConTest 1-56,,TRUE,,147,116,99,99,https://localhost:8443/,76853,0,71361
+1.71563E+12,210049,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-80,text,FALSE,,3161,0,99,99,https://localhost:8443/,0,0,210049
+1.71563E+12,209934,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-6,text,FALSE,,3161,0,99,99,https://localhost:8443/,0,0,209934
+1.71563E+12,209934,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-65,text,FALSE,,3161,0,99,99,https://localhost:8443/,0,0,209934
+1.71563E+12,210074,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-24,text,FALSE,,3161,0,99,99,https://localhost:8443/,0,0,210074
+1.71563E+12,210074,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-51,text,FALSE,,3161,0,99,99,https://localhost:8443/,0,0,210074
+1.71563E+12,210026,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-59,text,FALSE,,3161,0,99,99,https://localhost:8443/,0,0,210026
+1.71563E+12,210171,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-48,text,FALSE,,3161,0,99,99,https://localhost:8443/,0,0,210171
+1.71563E+12,210174,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-94,text,FALSE,,3161,0,99,99,https://localhost:8443/,0,0,210174
+1.71563E+12,78966,HTTP Request,200,OK,ConTest 1-43,,TRUE,,147,116,99,99,https://localhost:8443/,78966,0,73482
+1.71563E+12,131870,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-100,text,FALSE,,3161,0,99,99,https://localhost:8443/,0,0,131870
+1.71563E+12,7697,HTTP Request,200,OK,ConTest 1-37,,TRUE,,147,116,99,99,https://localhost:8443/,7697,0,3146
+1.71563E+12,8487,HTTP Request,200,OK,ConTest 1-61,,TRUE,,147,116,99,99,https://localhost:8443/,8487,0,4377
+1.71563E+12,14231,HTTP Request,200,OK,ConTest 1-93,,TRUE,,147,116,99,99,https://localhost:8443/,14231,0,10408
+1.71563E+12,10033,HTTP Request,200,OK,ConTest 1-50,,TRUE,,147,116,99,99,https://localhost:8443/,10033,0,6133
+1.71563E+12,87108,HTTP Request,200,OK,ConTest 1-46,,TRUE,,147,116,99,99,https://localhost:8443/,87107,0,83803
+1.71563E+12,9248,HTTP Request,200,OK,ConTest 1-43,,TRUE,,147,116,99,99,https://localhost:8443/,9248,0,6693
+1.71563E+12,7311,HTTP Request,200,OK,ConTest 1-37,,TRUE,,147,116,99,99,https://localhost:8443/,7311,0,3596
+1.71563E+12,92122,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-68,text,FALSE,,3161,0,99,99,https://localhost:8443/,0,0,92121
+1.71563E+12,92186,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-87,text,FALSE,,3161,0,99,99,https://localhost:8443/,0,0,92186
+1.71563E+12,92240,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-52,text,FALSE,,3161,0,99,99,https://localhost:8443/,0,0,92240
+1.71563E+12,92015,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-90,text,FALSE,,3161,0,99,99,https://localhost:8443/,0,0,92015
+1.71563E+12,38939,HTTP Request,200,OK,ConTest 1-74,,TRUE,,147,116,99,99,https://localhost:8443/,38939,0,36309
+1.71563E+12,9730,HTTP Request,200,OK,ConTest 1-93,,TRUE,,147,116,99,99,https://localhost:8443/,9730,0,5265
+1.71563E+12,9067,HTTP Request,200,OK,ConTest 1-43,,TRUE,,147,116,99,99,https://localhost:8443/,9067,0,5924
+1.71563E+12,10774,HTTP Request,200,OK,ConTest 1-74,,TRUE,,147,116,99,99,https://localhost:8443/,10773,0,7045
+1.71563E+12,12315,HTTP Request,200,OK,ConTest 1-90,,TRUE,,147,116,99,99,https://localhost:8443/,12315,0,9570
+1.71563E+12,37979,HTTP Request,200,OK,ConTest 1-42,,TRUE,,147,116,99,99,https://localhost:8443/,37979,0,35324
+1.71563E+12,133300,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-83,text,FALSE,,3161,0,99,99,https://localhost:8443/,0,0,133300
+1.71563E+12,39629,HTTP Request,200,OK,ConTest 1-8,,TRUE,,147,116,99,99,https://localhost:8443/,39629,0,36098
+1.71563E+12,23380,HTTP Request,200,OK,ConTest 1-50,,TRUE,,147,116,99,99,https://localhost:8443/,23380,0,18290
+1.71563E+12,39398,HTTP Request,200,OK,ConTest 1-30,,TRUE,,147,116,99,99,https://localhost:8443/,39398,0,36099
+1.71563E+12,132343,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-63,text,FALSE,,3161,0,99,99,https://localhost:8443/,0,0,132343
+1.71563E+12,8571,HTTP Request,200,OK,ConTest 1-90,,TRUE,,147,116,99,99,https://localhost:8443/,8571,0,6112
+1.71563E+12,133895,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-29,text,FALSE,,3161,0,99,99,https://localhost:8443/,0,0,133895
+1.71563E+12,10548,HTTP Request,200,OK,ConTest 1-8,,TRUE,,147,116,99,99,https://localhost:8443/,10548,0,5947
+1.71563E+12,71893,HTTP Request,200,OK,ConTest 1-78,,TRUE,,147,116,99,99,https://localhost:8443/,71893,0,67996
+1.71563E+12,130605,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-10,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,130605
+1.71563E+12,132858,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-88,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,132858
+1.71563E+12,134373,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-33,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,134373
+1.71563E+12,14302,HTTP Request,200,OK,ConTest 1-90,,TRUE,,147,116,98,98,https://localhost:8443/,14301,0,10583
+1.71563E+12,70951,HTTP Request,200,OK,ConTest 1-25,,TRUE,,147,116,98,98,https://localhost:8443/,70951,0,67478
+1.71563E+12,39869,HTTP Request,200,OK,ConTest 1-68,,TRUE,,147,116,98,98,https://localhost:8443/,39869,0,35241
+1.71563E+12,132996,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-55,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,132996
+1.71563E+12,132890,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-22,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,132890
+1.71563E+12,132996,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-92,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,132996
+1.71563E+12,132890,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-95,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,132890
+1.71563E+12,132741,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-84,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,132741
+1.71563E+12,133144,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-71,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133144
+1.71563E+12,133144,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-73,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133144
+1.71563E+12,133144,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-44,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133144
+1.71563E+12,133080,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-72,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133080
+1.71563E+12,132998,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-53,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,132998
+1.71563E+12,132994,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-17,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,132994
+1.71563E+12,132990,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-91,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,132990
+1.71563E+12,132954,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-45,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,132954
+1.71563E+12,133056,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-3,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133056
+1.71563E+12,133051,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-5,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133051
+1.71563E+12,133207,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-69,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133207
+1.71563E+12,132804,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-77,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,132804
+1.71563E+12,133051,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-16,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133051
+1.71563E+12,132910,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-99,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,132910
+1.71563E+12,133051,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-75,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133051
+1.71563E+12,133207,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-54,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133207
+1.71563E+12,133052,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-18,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133052
+1.71563E+12,133207,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-96,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133207
+1.71563E+12,132954,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-19,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,132954
+1.71563E+12,133244,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-97,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133244
+1.71563E+12,133275,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-70,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133275
+1.71563E+12,133304,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-41,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133304
+1.71563E+12,133222,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-40,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133222
+1.71563E+12,133277,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-2,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133277
+1.71563E+12,133214,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-58,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133214
+1.71563E+12,133306,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-31,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133306
+1.71563E+12,132967,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-47,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,132967
+1.71563E+12,133213,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-60,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133213
+1.71563E+12,133219,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-39,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133219
+1.71563E+12,133133,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-12,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133133
+1.71563E+12,132983,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-4,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,132983
+1.71563E+12,133234,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-11,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133234
+1.71563E+12,133239,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-79,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133239
+1.71563E+12,133262,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-64,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133262
+1.71563E+12,133182,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-34,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133182
+1.71563E+12,133355,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-62,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133355
+1.71563E+12,133479,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-36,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133479
+1.71563E+12,133076,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-81,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133076
+1.71563E+12,133609,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-9,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133608
+1.71563E+12,23132,HTTP Request,200,OK,ConTest 1-50,,TRUE,,147,116,98,98,https://localhost:8443/,23132,0,20563
+1.71563E+12,40706,HTTP Request,200,OK,ConTest 1-43,,TRUE,,147,116,98,98,https://localhost:8443/,40706,0,36789
+1.71563E+12,132829,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-89,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,132829
+1.71563E+12,5536,HTTP Request,200,OK,ConTest 1-50,,TRUE,,147,116,98,98,https://localhost:8443/,5536,0,1916
+1.71563E+12,6615,HTTP Request,200,OK,ConTest 1-75,,TRUE,,147,116,98,98,https://localhost:8443/,6615,0,3361
+1.71563E+12,8037,HTTP Request,200,OK,ConTest 1-54,,TRUE,,147,116,98,98,https://localhost:8443/,8036,0,4407
+1.71563E+12,8196,HTTP Request,200,OK,ConTest 1-22,,TRUE,,147,116,98,98,https://localhost:8443/,8195,0,5525
+1.71563E+12,5566,HTTP Request,200,OK,ConTest 1-89,,TRUE,,147,116,98,98,https://localhost:8443/,5566,0,2440
+1.71563E+12,11529,HTTP Request,200,OK,ConTest 1-45,,TRUE,,147,116,98,98,https://localhost:8443/,11529,0,6995
+1.71563E+12,5992,HTTP Request,200,OK,ConTest 1-75,,TRUE,,147,116,98,98,https://localhost:8443/,5992,0,1703
+1.71563E+12,13737,HTTP Request,200,OK,ConTest 1-3,,TRUE,,147,116,98,98,https://localhost:8443/,13737,0,9560
+1.71563E+12,15123,HTTP Request,200,OK,ConTest 1-99,,TRUE,,147,116,98,98,https://localhost:8443/,15122,0,10956
+1.71563E+12,132888,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-28,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,132888
+1.71563E+12,16673,HTTP Request,200,OK,ConTest 1-71,,TRUE,,147,116,98,98,https://localhost:8443/,16673,0,13045
+1.71563E+12,72967,HTTP Request,200,OK,ConTest 1-13,,TRUE,,147,116,98,98,https://localhost:8443/,72966,0,68096
+1.71563E+12,12942,HTTP Request,200,OK,ConTest 1-43,,TRUE,,147,116,98,98,https://localhost:8443/,12942,0,10009
+1.71563E+12,133162,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-32,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133162
+1.71563E+12,5373,HTTP Request,200,OK,ConTest 1-28,,TRUE,,147,116,98,98,https://localhost:8443/,5373,0,1696
+1.71563E+12,6677,HTTP Request,200,OK,ConTest 1-43,,TRUE,,147,116,98,98,https://localhost:8443/,6677,0,3811
+1.71563E+12,40471,HTTP Request,200,OK,ConTest 1-29,,TRUE,,147,116,98,98,https://localhost:8443/,40471,0,35917
+1.71563E+12,158539,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-76,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,158539
+1.71563E+12,131443,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-38,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,131443
+1.71563E+12,133358,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-26,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133358
+1.71563E+12,13160,HTTP Request,200,OK,ConTest 1-3,,TRUE,,147,116,98,98,https://localhost:8443/,13160,0,10701
+1.71563E+12,163601,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-15,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,163601
+1.71563E+12,130612,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-66,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,130612
+1.71563E+12,11440,HTTP Request,200,OK,ConTest 1-32,,TRUE,,147,116,98,98,https://localhost:8443/,11440,0,7499
+1.71563E+12,6470,HTTP Request,200,OK,ConTest 1-76,,TRUE,,147,116,98,98,https://localhost:8443/,6470,0,4138
+1.71563E+12,10170,HTTP Request,200,OK,ConTest 1-26,,TRUE,,147,116,98,98,https://localhost:8443/,10170,0,7203
+1.71563E+12,130480,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-23,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,130480
+1.71563E+12,9458,HTTP Request,200,OK,ConTest 1-32,,TRUE,,147,116,98,98,https://localhost:8443/,9458,0,5904
+1.71563E+12,72390,HTTP Request,200,OK,ConTest 1-42,,TRUE,,147,116,98,98,https://localhost:8443/,72390,0,68352
+1.71563E+12,132972,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-49,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,132971
+1.71563E+12,133149,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-86,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133148
+1.71563E+12,133335,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-14,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133335
+1.71563E+12,38382,HTTP Request,200,OK,ConTest 1-22,,TRUE,,147,116,98,98,https://localhost:8443/,38381,0,34855
+1.71563E+12,6060,HTTP Request,200,OK,ConTest 1-32,,TRUE,,147,116,98,98,https://localhost:8443/,6060,0,2712
+1.71563E+12,12818,HTTP Request,200,OK,ConTest 1-26,,TRUE,,147,116,98,98,https://localhost:8443/,12817,0,10800
+1.71563E+12,22027,HTTP Request,200,OK,ConTest 1-3,,TRUE,,147,116,98,98,https://localhost:8443/,22026,0,18958
+1.71563E+12,38692,HTTP Request,200,OK,ConTest 1-75,,TRUE,,147,116,98,98,https://localhost:8443/,38692,0,34985
+1.71563E+12,134580,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-1,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,134580
+1.71563E+12,133265,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-35,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133265
+1.71563E+12,133071,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-98,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133071
+1.71563E+12,133377,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-7,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,133377
+1.71563E+12,5942,HTTP Request,200,OK,ConTest 1-22,,TRUE,,147,116,98,98,https://localhost:8443/,5941,0,2441
+1.71563E+12,22130,HTTP Request,200,OK,ConTest 1-15,,TRUE,,147,116,98,98,https://localhost:8443/,22130,0,19032
+1.71563E+12,132946,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-57,text,FALSE,,3161,0,98,98,https://localhost:8443/,0,0,132946
+1.71563E+12,9512,HTTP Request,200,OK,ConTest 1-32,,TRUE,,147,116,97,97,https://localhost:8443/,9512,0,6694
+1.71563E+12,194416,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-82,text,FALSE,,3161,0,97,97,https://localhost:8443/,0,0,194416
+1.71563E+12,194362,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-85,text,FALSE,,3161,0,97,97,https://localhost:8443/,0,0,194362
+1.71563E+12,38884,HTTP Request,200,OK,ConTest 1-29,,TRUE,,147,116,97,97,https://localhost:8443/,38884,0,35931
+1.71563E+12,14651,HTTP Request,200,OK,ConTest 1-35,,TRUE,,147,116,97,97,https://localhost:8443/,14650,0,10588
+1.71563E+12,21199,HTTP Request,200,OK,ConTest 1-42,,TRUE,,147,116,96,96,https://localhost:8443/,21199,0,17809
+1.71563E+12,133084,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-21,text,FALSE,,3161,0,96,96,https://localhost:8443/,0,0,133083
+1.71563E+12,69797,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-72,text,FALSE,,3161,0,96,96,https://localhost:8443/,0,0,69796
+1.71563E+12,8830,HTTP Request,200,OK,ConTest 1-82,,TRUE,,147,116,96,96,https://localhost:8443/,8830,0,5690
+1.71563E+12,70637,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-16,text,FALSE,,3161,0,96,96,https://localhost:8443/,0,0,70637
+1.71563E+12,71496,HTTP Request,200,OK,ConTest 1-95,,TRUE,,147,116,96,96,https://localhost:8443/,71495,0,67729
+1.71563E+12,71669,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-2,text,FALSE,,3161,0,96,96,https://localhost:8443/,0,0,71669
+1.71563E+12,71896,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-92,text,FALSE,,3161,0,96,96,https://localhost:8443/,0,0,71896
+1.71563E+12,131128,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-20,text,FALSE,,3161,0,96,96,https://localhost:8443/,0,0,131128
+1.71563E+12,71963,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-84,text,FALSE,,3161,0,96,96,https://localhost:8443/,0,0,71963
+1.71563E+12,71693,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-9,text,FALSE,,3161,0,96,96,https://localhost:8443/,0,0,71693
+1.71563E+12,7099,HTTP Request,200,OK,ConTest 1-42,,TRUE,,147,116,96,96,https://localhost:8443/,7099,0,3752
+1.71563E+12,21563,HTTP Request,200,OK,ConTest 1-22,,TRUE,,147,116,95,95,https://localhost:8443/,21563,0,18318
+1.71563E+12,6692,HTTP Request,200,OK,ConTest 1-72,,TRUE,,147,116,95,95,https://localhost:8443/,6691,0,1844
+1.71563E+12,132787,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-94,text,FALSE,,3161,0,95,95,https://localhost:8443/,0,0,132787
+1.71563E+12,132884,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-6,text,FALSE,,3161,0,95,95,https://localhost:8443/,0,0,132884
+1.71563E+12,132926,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-56,text,FALSE,,3161,0,95,95,https://localhost:8443/,0,0,132926
+1.71563E+12,132960,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-80,text,FALSE,,3161,0,95,95,https://localhost:8443/,0,0,132960
+1.71563E+12,132882,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-24,text,FALSE,,3161,0,95,95,https://localhost:8443/,0,0,132882
+1.71563E+12,132839,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-48,text,FALSE,,3161,0,95,95,https://localhost:8443/,0,0,132839
+1.71563E+12,132839,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-59,text,FALSE,,3161,0,95,95,https://localhost:8443/,0,0,132839
+1.71563E+12,132939,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-65,text,FALSE,,3161,0,95,95,https://localhost:8443/,0,0,132939
+1.71563E+12,133212,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-67,text,FALSE,,3161,0,95,95,https://localhost:8443/,0,0,133212
+1.71563E+12,133132,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-51,text,FALSE,,3161,0,95,95,https://localhost:8443/,0,0,133132
+1.71563E+12,7509,HTTP Request,200,OK,ConTest 1-82,,TRUE,,147,116,95,95,https://localhost:8443/,7509,0,4652
+1.71563E+12,71939,HTTP Request,200,OK,ConTest 1-54,,TRUE,,147,116,95,95,https://localhost:8443/,71938,0,69630
+1.71563E+12,9438,HTTP Request,200,OK,ConTest 1-95,,TRUE,,147,116,95,95,https://localhost:8443/,9437,0,5050
+1.71563E+12,129767,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-61,text,FALSE,,3161,0,95,95,https://localhost:8443/,0,0,129767
+1.71563E+12,71206,HTTP Request,200,OK,ConTest 1-89,,TRUE,,147,116,95,95,https://localhost:8443/,71206,0,67817
+1.71563E+12,133117,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-100,text,FALSE,,3161,0,95,95,https://localhost:8443/,0,0,133117
+1.71563E+12,7041,HTTP Request,200,OK,ConTest 1-67,,TRUE,,147,116,95,95,https://localhost:8443/,7041,0,3155
+1.71563E+12,7671,HTTP Request,200,OK,ConTest 1-24,,TRUE,,147,116,95,95,https://localhost:8443/,7671,0,4685
+1.71563E+12,14021,HTTP Request,200,OK,ConTest 1-2,,TRUE,,147,116,95,95,https://localhost:8443/,14021,0,10857
+1.71563E+12,133084,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-46,text,FALSE,,3161,0,95,95,https://localhost:8443/,0,0,133084
+1.71563E+12,7252,HTTP Request,200,OK,ConTest 1-54,,TRUE,,147,116,95,95,https://localhost:8443/,7252,0,3668
+1.71563E+12,61566,HTTP Request,200,OK,ConTest 1-38,,TRUE,,147,116,95,95,https://localhost:8443/,61566,0,58664
+1.71563E+12,13072,HTTP Request,200,OK,ConTest 1-6,,TRUE,,147,116,95,95,https://localhost:8443/,13072,0,9842
+1.71563E+12,8842,HTTP Request,200,OK,ConTest 1-89,,TRUE,,147,116,95,95,https://localhost:8443/,8842,0,3769
+1.71563E+12,9767,HTTP Request,200,OK,ConTest 1-61,,TRUE,,147,116,95,95,https://localhost:8443/,9767,0,5787
+1.71563E+12,133259,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-87,text,FALSE,,3161,0,95,95,https://localhost:8443/,0,0,133259
+1.71563E+12,133224,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-52,text,FALSE,,3161,0,95,95,https://localhost:8443/,0,0,133224
+1.71563E+12,133705,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-37,text,FALSE,,3161,0,95,95,https://localhost:8443/,0,0,133705
+1.71563E+12,73104,HTTP Request,200,OK,ConTest 1-28,,TRUE,,147,116,95,95,https://localhost:8443/,73104,0,68650
+1.71563E+12,22276,HTTP Request,200,OK,ConTest 1-9,,TRUE,,147,116,95,95,https://localhost:8443/,22276,0,19296
+1.71563E+12,24558,HTTP Request,200,OK,ConTest 1-20,,TRUE,,147,116,95,95,https://localhost:8443/,24557,0,20649
+1.71563E+12,9636,HTTP Request,200,OK,ConTest 1-54,,TRUE,,147,116,95,95,https://localhost:8443/,9636,0,6950
+1.71563E+12,135011,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-93,text,FALSE,,3161,0,95,95,https://localhost:8443/,0,0,135010
+1.71563E+12,8389,HTTP Request,200,OK,ConTest 1-89,,TRUE,,147,116,95,95,https://localhost:8443/,8389,0,4999
+1.71563E+12,7267,HTTP Request,200,OK,ConTest 1-28,,TRUE,,147,116,94,94,https://localhost:8443/,7267,0,2735
+1.71563E+12,7746,HTTP Request,200,OK,ConTest 1-9,,TRUE,,147,116,93,93,https://localhost:8443/,7746,0,4096
+1.71563E+12,131954,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-74,text,FALSE,,3161,0,93,93,https://localhost:8443/,0,0,131954
+1.71563E+12,8162,HTTP Request,200,OK,ConTest 1-20,,TRUE,,147,116,93,93,https://localhost:8443/,8161,0,3230
+1.71563E+12,8828,HTTP Request,200,OK,ConTest 1-54,,TRUE,,147,116,93,93,https://localhost:8443/,8828,0,5792
+1.71563E+12,105990,HTTP Request,200,OK,ConTest 1-91,,TRUE,,147,116,93,93,https://localhost:8443/,105990,0,103764
+1.71563E+12,132964,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-83,text,FALSE,,3161,0,93,93,https://localhost:8443/,0,0,132964
+1.71563E+12,22967,HTTP Request,200,OK,ConTest 1-46,,TRUE,,147,116,93,93,https://localhost:8443/,22967,0,18483
+1.71563E+12,133059,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-63,text,FALSE,,3161,0,93,93,https://localhost:8443/,0,0,133059
+1.71563E+12,134543,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-30,text,FALSE,,3161,0,93,93,https://localhost:8443/,0,0,134543
+1.71563E+12,10903,HTTP Request,200,OK,ConTest 1-74,,TRUE,,147,116,93,93,https://localhost:8443/,10903,0,7296
+1.71563E+12,130140,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-8,text,FALSE,,3161,0,93,93,https://localhost:8443/,0,0,130139
+1.71563E+12,6454,HTTP Request,200,OK,ConTest 1-63,,TRUE,,147,116,93,93,https://localhost:8443/,6453,0,3419
+1.71563E+12,133187,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-88,text,FALSE,,3161,0,92,92,https://localhost:8443/,0,0,133187
+1.71563E+12,133416,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-10,text,FALSE,,3161,0,92,92,https://localhost:8443/,0,0,133416
+1.71563E+12,133305,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-33,text,FALSE,,3161,0,92,92,https://localhost:8443/,0,0,133305
+1.71563E+12,71904,HTTP Request,200,OK,ConTest 1-7,,TRUE,,147,116,92,92,https://localhost:8443/,71904,0,67493
+1.71563E+12,37749,HTTP Request,200,OK,ConTest 1-2,,TRUE,,147,116,92,92,https://localhost:8443/,37749,0,35606
+1.71563E+12,10843,HTTP Request,200,OK,ConTest 1-74,,TRUE,,147,116,92,92,https://localhost:8443/,10843,0,6844
+1.71563E+12,23292,HTTP Request,200,OK,ConTest 1-20,,TRUE,,147,116,91,91,https://localhost:8443/,23292,0,18127
+1.71563E+12,133541,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-90,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,133541
+1.71563E+12,8716,HTTP Request,200,OK,ConTest 1-33,,TRUE,,147,116,91,91,https://localhost:8443/,8716,0,3869
+1.71563E+12,132781,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-81,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,132781
+1.71563E+12,132890,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-58,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,132890
+1.71563E+12,132894,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-47,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,132894
+1.71563E+12,132894,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-39,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,132894
+1.71563E+12,132894,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-31,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,132894
+1.71563E+12,132914,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-97,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,132914
+1.71563E+12,132897,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-79,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,132897
+1.71563E+12,132914,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-40,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,132914
+1.71563E+12,132897,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-11,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,132897
+1.71563E+12,133115,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-5,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,133115
+1.71563E+12,133115,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-96,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,133115
+1.71563E+12,133179,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-55,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,133179
+1.71563E+12,132843,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-36,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,132843
+1.71563E+12,132964,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-19,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,132964
+1.71563E+12,134182,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-68,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,134182
+1.71563E+12,132939,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-4,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,132939
+1.71563E+12,132939,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-64,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,132939
+1.71563E+12,133252,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-73,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,133252
+1.71563E+12,133189,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-77,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,133189
+1.71563E+12,133029,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-70,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,133029
+1.71563E+12,132917,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-62,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,132917
+1.71563E+12,132979,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-34,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,132979
+1.71563E+12,133370,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-17,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,133370
+1.71563E+12,133370,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-44,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,133370
+1.71563E+12,9761,HTTP Request,200,OK,ConTest 1-2,,TRUE,,147,116,91,91,https://localhost:8443/,9761,0,5276
+1.71563E+12,133203,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-41,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,133203
+1.71563E+12,133201,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-60,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,133201
+1.71563E+12,133186,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-12,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,133186
+1.71563E+12,133364,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-18,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,133364
+1.71563E+12,134455,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-69,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,134455
+1.71563E+12,135497,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-53,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,135497
+1.71563E+12,39406,HTTP Request,200,OK,ConTest 1-93,,TRUE,,147,116,91,91,https://localhost:8443/,39405,0,36043
+1.71563E+12,9660,HTTP Request,200,OK,ConTest 1-90,,TRUE,,147,116,91,91,https://localhost:8443/,9660,0,6482
+1.71563E+12,132407,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-50,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,132407
+1.71563E+12,92065,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-14,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,92065
+1.71563E+12,92264,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-86,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,92264
+1.71563E+12,6695,HTTP Request,200,OK,ConTest 1-58,,TRUE,,147,116,91,91,https://localhost:8443/,6694,0,2283
+1.71563E+12,9857,HTTP Request,200,OK,ConTest 1-5,,TRUE,,147,116,91,91,https://localhost:8443/,9857,0,7328
+1.71563E+12,11032,HTTP Request,200,OK,ConTest 1-33,,TRUE,,147,116,91,91,https://localhost:8443/,11032,0,7064
+1.71563E+12,131822,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-45,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,131822
+1.71563E+12,38104,HTTP Request,200,OK,ConTest 1-83,,TRUE,,147,116,91,91,https://localhost:8443/,38103,0,34824
+1.71563E+12,13996,HTTP Request,200,OK,ConTest 1-97,,TRUE,,147,116,91,91,https://localhost:8443/,13995,0,10321
+1.71563E+12,133330,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-99,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,133330
+1.71563E+12,131929,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-71,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,131929
+1.71563E+12,132026,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-13,text,FALSE,,3161,0,91,91,https://localhost:8443/,0,0,132025
+1.71563E+12,10682,HTTP Request,200,OK,ConTest 1-86,,TRUE,,147,116,91,91,https://localhost:8443/,10681,0,6878
+1.71563E+12,8552,HTTP Request,200,OK,ConTest 1-5,,TRUE,,147,116,91,91,https://localhost:8443/,8551,0,3467
+1.71563E+12,10228,HTTP Request,200,OK,ConTest 1-33,,TRUE,,147,116,91,91,https://localhost:8443/,10228,0,6351
+1.71563E+12,157114,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-25,text,FALSE,,3161,0,90,90,https://localhost:8443/,0,0,157114
+1.71563E+12,14788,HTTP Request,200,OK,ConTest 1-58,,TRUE,,147,116,89,89,https://localhost:8443/,14788,0,11506
+1.71563E+12,8493,HTTP Request,200,OK,ConTest 1-97,,TRUE,,147,116,89,89,https://localhost:8443/,8492,0,4823
+1.71563E+12,20737,HTTP Request,200,OK,ConTest 1-53,,TRUE,,147,116,89,89,https://localhost:8443/,20737,0,18329
+1.71563E+12,134245,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-43,text,FALSE,,3161,0,89,89,https://localhost:8443/,0,0,134245
+1.71563E+12,13846,HTTP Request,200,OK,ConTest 1-86,,TRUE,,147,116,88,88,https://localhost:8443/,13846,0,10603
+1.71563E+12,131699,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-76,text,FALSE,,3161,0,88,88,https://localhost:8443/,0,0,131699
+1.71563E+12,133241,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-66,text,FALSE,,3161,0,88,88,https://localhost:8443/,0,0,133240
+1.71563E+12,11790,HTTP Request,200,OK,ConTest 1-97,,TRUE,,147,116,88,88,https://localhost:8443/,11790,0,7281
+1.71563E+12,13828,HTTP Request,200,OK,ConTest 1-58,,TRUE,,147,116,88,88,https://localhost:8443/,13828,0,10845
+1.71563E+12,7041,HTTP Request,200,OK,ConTest 1-66,,TRUE,,147,116,88,88,https://localhost:8443/,7041,0,2933
+1.71563E+12,70626,HTTP Request,200,OK,ConTest 1-9,,TRUE,,147,116,88,88,https://localhost:8443/,70626,0,67856
+1.71563E+12,9562,HTTP Request,200,OK,ConTest 1-76,,TRUE,,147,116,88,88,https://localhost:8443/,9562,0,5101
+1.71563E+12,5652,HTTP Request,200,OK,ConTest 1-58,,TRUE,,147,116,88,88,https://localhost:8443/,5652,0,2494
+1.71563E+12,133192,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-23,text,FALSE,,3161,0,88,88,https://localhost:8443/,0,0,133192
+1.71563E+12,14828,HTTP Request,200,OK,ConTest 1-86,,TRUE,,147,116,87,87,https://localhost:8443/,14828,0,10300
+1.71563E+12,130261,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-3,text,FALSE,,3161,0,86,86,https://localhost:8443/,0,0,130261
+1.71563E+12,130469,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-26,text,FALSE,,3161,0,86,86,https://localhost:8443/,0,0,130469
+1.71563E+12,133308,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-49,text,FALSE,,3161,0,85,85,https://localhost:8443/,0,0,133308
+1.71563E+12,7457,HTTP Request,200,OK,ConTest 1-9,,TRUE,,147,116,85,85,https://localhost:8443/,7457,0,4130
+1.71563E+12,10536,HTTP Request,200,OK,ConTest 1-66,,TRUE,,147,116,85,85,https://localhost:8443/,10536,0,6944
+1.71563E+12,131401,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-15,text,FALSE,,3161,0,85,85,https://localhost:8443/,0,0,131401
+1.71563E+12,133074,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-75,text,FALSE,,3161,0,85,85,https://localhost:8443/,0,0,133074
+1.71563E+12,133187,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-1,text,FALSE,,3161,0,85,85,https://localhost:8443/,0,0,133187
+1.71563E+12,133165,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-98,text,FALSE,,3161,0,85,85,https://localhost:8443/,0,0,133165
+1.71563E+12,10664,HTTP Request,200,OK,ConTest 1-58,,TRUE,,147,116,85,85,https://localhost:8443/,10664,0,6275
+1.71563E+12,49363,HTTP Request,200,OK,ConTest 1-93,,TRUE,,147,116,84,84,https://localhost:8443/,49362,0,45191
+1.71563E+12,55590,HTTP Request,200,OK,ConTest 1-41,,TRUE,,147,116,84,84,https://localhost:8443/,55590,0,50379
+1.71563E+12,132449,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-32,text,FALSE,,3161,0,84,84,https://localhost:8443/,0,0,132449
+1.71563E+12,12287,HTTP Request,200,OK,ConTest 1-49,,TRUE,,147,116,83,83,https://localhost:8443/,12286,0,10000
+1.71563E+12,10018,HTTP Request,200,OK,ConTest 1-66,,TRUE,,147,116,83,83,https://localhost:8443/,10018,0,6969
+1.71563E+12,133078,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-85,text,FALSE,,3161,0,83,83,https://localhost:8443/,0,0,133078
+1.71563E+12,130370,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-29,text,FALSE,,3161,0,83,83,https://localhost:8443/,0,0,130370
+1.71563E+12,41672,HTTP Request,200,OK,ConTest 1-53,,TRUE,,147,116,83,83,https://localhost:8443/,41672,0,36242
+1.71563E+12,14550,HTTP Request,200,OK,ConTest 1-1,,TRUE,,147,116,83,83,https://localhost:8443/,14550,0,10661
+1.71563E+12,132851,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-21,text,FALSE,,3161,0,83,83,https://localhost:8443/,0,0,132851
+1.71563E+12,129286,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-16,text,FALSE,,3161,0,83,83,https://localhost:8443/,0,0,129286
+1.71563E+12,13926,HTTP Request,200,OK,ConTest 1-93,,TRUE,,147,116,83,83,https://localhost:8443/,13926,0,10199
+1.71563E+12,133115,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-92,text,FALSE,,3161,0,82,82,https://localhost:8443/,0,0,133115
+1.71563E+12,133303,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-84,text,FALSE,,3161,0,82,82,https://localhost:8443/,0,0,133303
+1.71563E+12,131234,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-22,text,FALSE,,3161,0,82,82,https://localhost:8443/,0,0,131234
+1.71563E+12,7028,HTTP Request,200,OK,ConTest 1-1,,TRUE,,147,116,82,82,https://localhost:8443/,7028,0,2933
+1.71563E+12,22989,HTTP Request,200,OK,ConTest 1-15,,TRUE,,147,116,82,82,https://localhost:8443/,22989,0,20214
+1.71563E+12,23373,HTTP Request,200,OK,ConTest 1-98,,TRUE,,147,116,82,82,https://localhost:8443/,23373,0,19300
+1.71563E+12,9807,HTTP Request,200,OK,ConTest 1-16,,TRUE,,147,116,82,82,https://localhost:8443/,9806,0,5777
+1.71563E+12,133077,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-59,text,FALSE,,3161,0,82,82,https://localhost:8443/,0,0,133077
+1.71563E+12,133129,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-94,text,FALSE,,3161,0,82,82,https://localhost:8443/,0,0,133129
+1.71563E+12,132830,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-51,text,FALSE,,3161,0,82,82,https://localhost:8443/,0,0,132829
+1.71563E+12,133073,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-65,text,FALSE,,3161,0,82,82,https://localhost:8443/,0,0,133073
+1.71563E+12,133469,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-72,text,FALSE,,3161,0,82,82,https://localhost:8443/,0,0,133469
+1.71563E+12,132193,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-82,text,FALSE,,3161,0,82,82,https://localhost:8443/,0,0,132193
+1.71563E+12,133155,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-48,text,FALSE,,3161,0,82,82,https://localhost:8443/,0,0,133155
+1.71563E+12,133335,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-56,text,FALSE,,3161,0,82,82,https://localhost:8443/,0,0,133335
+1.71563E+12,133311,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-80,text,FALSE,,3161,0,82,82,https://localhost:8443/,0,0,133311
+1.71563E+12,7662,HTTP Request,200,OK,ConTest 1-84,,TRUE,,147,116,82,82,https://localhost:8443/,7662,0,4630
+1.71563E+12,6603,HTTP Request,200,OK,ConTest 1-15,,TRUE,,147,116,82,82,https://localhost:8443/,6603,0,3317
+1.71563E+12,134204,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-95,text,FALSE,,3161,0,82,82,https://localhost:8443/,0,0,134204
+1.71563E+12,130686,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-24,text,FALSE,,3161,0,82,82,https://localhost:8443/,0,0,130686
+1.71563E+12,133080,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-100,text,FALSE,,3161,0,82,82,https://localhost:8443/,0,0,133079
+1.71563E+12,131147,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-67,text,FALSE,,3161,0,82,82,https://localhost:8443/,0,0,131147
+1.71563E+12,23047,HTTP Request,200,OK,ConTest 1-85,,TRUE,,147,116,82,82,https://localhost:8443/,23047,0,19769
+1.71563E+12,8529,HTTP Request,200,OK,ConTest 1-48,,TRUE,,147,116,82,82,https://localhost:8443/,8528,0,5379
+1.71563E+12,8902,HTTP Request,200,OK,ConTest 1-56,,TRUE,,147,116,82,82,https://localhost:8443/,8901,0,6401
+1.71563E+12,130335,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-6,text,FALSE,,3161,0,82,82,https://localhost:8443/,0,0,130335
+1.71563E+12,132911,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-38,text,FALSE,,3161,0,82,82,https://localhost:8443/,0,0,132911
+1.71563E+12,6621,HTTP Request,200,OK,ConTest 1-100,,TRUE,,147,116,82,82,https://localhost:8443/,6621,0,3473
+1.71563E+12,71523,HTTP Request,200,OK,ConTest 1-5,,TRUE,,147,116,81,81,https://localhost:8443/,71523,0,68269
+1.71563E+12,132853,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-37,text,FALSE,,3161,0,81,81,https://localhost:8443/,0,0,132853
+1.71563E+12,15374,HTTP Request,200,OK,ConTest 1-65,,TRUE,,147,116,81,81,https://localhost:8443/,15374,0,11688
+1.71563E+12,133573,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-61,text,FALSE,,3161,0,81,81,https://localhost:8443/,0,0,133573
+1.71563E+12,133049,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-87,text,FALSE,,3161,0,81,81,https://localhost:8443/,0,0,133049
+1.71563E+12,133151,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-52,text,FALSE,,3161,0,81,81,https://localhost:8443/,0,0,133151
+1.71563E+12,7704,HTTP Request,200,OK,ConTest 1-48,,TRUE,,147,116,81,81,https://localhost:8443/,7704,0,4508
+1.71563E+12,22975,HTTP Request,200,OK,ConTest 1-98,,TRUE,,147,116,81,81,https://localhost:8443/,22974,0,20404
+1.71563E+12,12129,HTTP Request,200,OK,ConTest 1-6,,TRUE,,147,116,80,80,https://localhost:8443/,12129,0,6542
+1.71563E+12,24143,HTTP Request,200,OK,ConTest 1-51,,TRUE,,147,116,80,80,https://localhost:8443/,24143,0,19410
+1.71563E+12,8757,HTTP Request,200,OK,ConTest 1-87,,TRUE,,147,116,80,80,https://localhost:8443/,8756,0,5531
+1.71563E+12,129481,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-91,text,FALSE,,3161,0,80,80,https://localhost:8443/,0,0,129480
+1.71563E+12,129833,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-54,text,FALSE,,3161,0,80,80,https://localhost:8443/,0,0,129833
+1.71563E+12,9453,HTTP Request,200,OK,ConTest 1-48,,TRUE,,147,116,79,79,https://localhost:8443/,9453,0,6053
+1.71563E+12,23174,HTTP Request,200,OK,ConTest 1-15,,TRUE,,147,116,79,79,https://localhost:8443/,23173,0,19880
+1.71563E+12,13537,HTTP Request,200,OK,ConTest 1-52,,TRUE,,147,116,79,79,https://localhost:8443/,13536,0,10870
+1.71563E+12,130988,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-46,text,FALSE,,3161,0,79,79,https://localhost:8443/,0,0,130988
+1.71563E+12,31469,HTTP Request,200,OK,ConTest 1-59,,TRUE,,147,116,79,79,https://localhost:8443/,31469,0,27808
+1.71563E+12,10449,HTTP Request,200,OK,ConTest 1-6,,TRUE,,147,116,79,79,https://localhost:8443/,10449,0,5983
+1.71563E+12,133161,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-30,text,FALSE,,3161,0,79,79,https://localhost:8443/,0,0,133161
+1.71563E+12,7599,HTTP Request,200,OK,ConTest 1-52,,TRUE,,147,116,79,79,https://localhost:8443/,7598,0,2661
+1.71563E+12,57922,HTTP Request,200,OK,ConTest 1-41,,TRUE,,147,116,79,79,https://localhost:8443/,57922,0,54064
+1.71563E+12,14712,HTTP Request,200,OK,ConTest 1-87,,TRUE,,147,116,79,79,https://localhost:8443/,14712,0,11506
+1.71563E+12,23668,HTTP Request,200,OK,ConTest 1-61,,TRUE,,147,116,79,79,https://localhost:8443/,23668,0,19370
+1.71563E+12,7701,HTTP Request,200,OK,ConTest 1-6,,TRUE,,147,116,79,79,https://localhost:8443/,7701,0,5104
+1.71563E+12,133119,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-8,text,FALSE,,3161,0,79,79,https://localhost:8443/,0,0,133119
+1.71563E+12,71461,HTTP Request,200,OK,ConTest 1-9,,TRUE,,147,116,79,79,https://localhost:8443/,71460,0,68711
+1.71563E+12,5442,HTTP Request,200,OK,ConTest 1-41,,TRUE,,147,116,78,78,https://localhost:8443/,5441,0,3476
+1.71563E+12,40659,HTTP Request,200,OK,ConTest 1-67,,TRUE,,147,116,78,78,https://localhost:8443/,40659,0,36002
+1.71563E+12,132811,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-10,text,FALSE,,3161,0,78,78,https://localhost:8443/,0,0,132811
+1.71563E+12,132550,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-7,text,FALSE,,3161,0,78,78,https://localhost:8443/,0,0,132550
+1.71563E+12,133239,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-88,text,FALSE,,3161,0,77,77,https://localhost:8443/,0,0,133239
+1.71563E+12,10678,HTTP Request,200,OK,ConTest 1-30,,TRUE,,147,116,77,77,https://localhost:8443/,10678,0,6555
+1.71563E+12,7627,HTTP Request,200,OK,ConTest 1-8,,TRUE,,147,116,76,76,https://localhost:8443/,7626,0,3980
+1.71563E+12,6571,HTTP Request,200,OK,ConTest 1-41,,TRUE,,147,116,76,76,https://localhost:8443/,6571,0,3812
+1.71563E+12,39968,HTTP Request,200,OK,ConTest 1-38,,TRUE,,147,116,76,76,https://localhost:8443/,39967,0,36968
+1.71563E+12,133179,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-20,text,FALSE,,3161,0,75,75,https://localhost:8443/,0,0,133179
+1.71563E+12,5551,HTTP Request,200,OK,ConTest 1-67,,TRUE,,147,116,74,74,https://localhost:8443/,5551,0,2427
+1.71563E+12,37871,HTTP Request,200,OK,ConTest 1-65,,TRUE,,147,116,74,74,https://localhost:8443/,37871,0,34989
+1.71563E+12,14384,HTTP Request,200,OK,ConTest 1-61,,TRUE,,147,116,74,74,https://localhost:8443/,14384,0,10162
+1.71563E+12,8614,HTTP Request,200,OK,ConTest 1-88,,TRUE,,147,116,74,74,https://localhost:8443/,8614,0,5872
+1.71563E+12,7263,HTTP Request,200,OK,ConTest 1-41,,TRUE,,147,116,74,74,https://localhost:8443/,7263,0,1928
+1.71563E+12,133261,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-81,text,FALSE,,3161,0,73,73,https://localhost:8443/,0,0,133261
+1.71563E+12,133197,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-64,text,FALSE,,3161,0,73,73,https://localhost:8443/,0,0,133197
+1.71563E+12,133005,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-17,text,FALSE,,3161,0,73,73,https://localhost:8443/,0,0,133005
+1.71563E+12,133200,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-96,text,FALSE,,3161,0,73,73,https://localhost:8443/,0,0,133200
+1.71563E+12,133239,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-40,text,FALSE,,3161,0,73,73,https://localhost:8443/,0,0,133239
+1.71563E+12,133249,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-19,text,FALSE,,3161,0,73,73,https://localhost:8443/,0,0,133249
+1.71563E+12,133034,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-2,text,FALSE,,3161,0,73,73,https://localhost:8443/,0,0,133034
+1.71563E+12,133209,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-62,text,FALSE,,3161,0,73,73,https://localhost:8443/,0,0,133209
+1.71563E+12,133033,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-18,text,FALSE,,3161,0,73,73,https://localhost:8443/,0,0,133033
+1.71563E+12,133292,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-55,text,FALSE,,3161,0,73,73,https://localhost:8443/,0,0,133292
+1.71563E+12,133313,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-68,text,FALSE,,3161,0,73,73,https://localhost:8443/,0,0,133313
+1.71563E+12,133379,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-31,text,FALSE,,3161,0,73,73,https://localhost:8443/,0,0,133379
+1.71563E+12,131981,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-69,text,FALSE,,3161,0,73,73,https://localhost:8443/,0,0,131980
+1.71563E+12,133361,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-79,text,FALSE,,3161,0,73,73,https://localhost:8443/,0,0,133360
+1.71563E+12,133248,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-70,text,FALSE,,3161,0,73,73,https://localhost:8443/,0,0,133248
+1.71563E+12,133094,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-12,text,FALSE,,3161,0,73,73,https://localhost:8443/,0,0,133094
+1.71563E+12,133361,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-36,text,FALSE,,3161,0,73,73,https://localhost:8443/,0,0,133361
+1.71563E+12,133419,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-47,text,FALSE,,3161,0,73,73,https://localhost:8443/,0,0,133419
+1.71563E+12,133395,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-4,text,FALSE,,3161,0,73,73,https://localhost:8443/,0,0,133395
+1.71563E+12,133323,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-73,text,FALSE,,3161,0,73,73,https://localhost:8443/,0,0,133323
+1.71563E+12,133202,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-44,text,FALSE,,3161,0,73,73,https://localhost:8443/,0,0,133202
+1.71563E+12,133147,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-60,text,FALSE,,3161,0,73,73,https://localhost:8443/,0,0,133147
+1.71563E+12,5760,HTTP Request,200,OK,ConTest 1-65,,TRUE,,147,116,73,73,https://localhost:8443/,5759,0,3330
+1.71563E+12,22631,HTTP Request,200,OK,ConTest 1-52,,TRUE,,147,116,73,73,https://localhost:8443/,22631,0,19189
+1.71563E+12,11937,HTTP Request,200,OK,ConTest 1-8,,TRUE,,147,116,73,73,https://localhost:8443/,11937,0,5851
+1.71563E+12,133213,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-14,text,FALSE,,3161,0,72,72,https://localhost:8443/,0,0,133213
+1.71563E+12,133248,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-50,text,FALSE,,3161,0,72,72,https://localhost:8443/,0,0,133248
+1.71563E+12,8372,HTTP Request,200,OK,ConTest 1-61,,TRUE,,147,116,71,71,https://localhost:8443/,8372,0,6109
+1.71563E+12,61911,HTTP Request,200,OK,ConTest 1-72,,TRUE,,147,116,70,70,https://localhost:8443/,61910,0,58217
+1.71563E+12,7263,HTTP Request,200,OK,ConTest 1-70,,TRUE,,147,116,70,70,https://localhost:8443/,7263,0,4359
+1.71563E+12,133482,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-45,text,FALSE,,3161,0,70,70,https://localhost:8443/,0,0,133482
+1.71563E+12,42011,HTTP Request,200,OK,ConTest 1-91,,TRUE,,147,116,70,70,https://localhost:8443/,42011,0,36966
+1.71563E+12,11136,HTTP Request,200,OK,ConTest 1-55,,TRUE,,147,116,70,70,https://localhost:8443/,11135,0,7268
+1.71563E+12,10777,HTTP Request,200,OK,ConTest 1-65,,TRUE,,147,116,70,70,https://localhost:8443/,10777,0,7126
+1.71563E+12,14526,HTTP Request,200,OK,ConTest 1-19,,TRUE,,147,116,70,70,https://localhost:8443/,14526,0,10580
+1.71563E+12,132873,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-13,text,FALSE,,3161,0,70,70,https://localhost:8443/,0,0,132873
+1.71563E+12,133064,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-99,text,FALSE,,3161,0,70,70,https://localhost:8443/,0,0,133064
+1.71563E+12,133470,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-71,text,FALSE,,3161,0,70,70,https://localhost:8443/,0,0,133470
+1.71563E+12,8475,HTTP Request,200,OK,ConTest 1-70,,TRUE,,147,116,70,70,https://localhost:8443/,8475,0,4951
+1.71563E+12,6912,HTTP Request,200,OK,ConTest 1-45,,TRUE,,147,116,70,70,https://localhost:8443/,6912,0,3293
+1.71563E+12,7437,HTTP Request,200,OK,ConTest 1-65,,TRUE,,147,116,70,70,https://localhost:8443/,7437,0,3968
+1.71563E+12,11077,HTTP Request,200,OK,ConTest 1-91,,TRUE,,147,116,69,69,https://localhost:8443/,11076,0,7736
+1.71563E+12,23088,HTTP Request,200,OK,ConTest 1-73,,TRUE,,147,116,69,69,https://localhost:8443/,23088,0,19814
+1.71563E+12,9444,HTTP Request,200,OK,ConTest 1-99,,TRUE,,147,116,69,69,https://localhost:8443/,9443,0,6546
+1.71563E+12,125938,HTTP Request,200,OK,ConTest 1-97,,TRUE,,147,116,69,69,https://localhost:8443/,125938,0,122024
+1.71563E+12,21721,HTTP Request,200,OK,ConTest 1-72,,TRUE,,147,116,69,69,https://localhost:8443/,21720,0,18721
+1.71563E+12,14214,HTTP Request,200,OK,ConTest 1-19,,TRUE,,147,116,69,69,https://localhost:8443/,14214,0,11325
+1.71563E+12,71862,HTTP Request,200,OK,ConTest 1-37,,TRUE,,147,116,69,69,https://localhost:8443/,71862,0,68318
+1.71563E+12,27027,HTTP Request,200,OK,ConTest 1-50,,TRUE,,147,116,69,69,https://localhost:8443/,27026,0,23737
+1.71563E+12,9530,HTTP Request,200,OK,ConTest 1-73,,TRUE,,147,116,68,68,https://localhost:8443/,9530,0,6320
+1.71563E+12,7267,HTTP Request,200,OK,ConTest 1-97,,TRUE,,147,116,68,68,https://localhost:8443/,7267,0,3816
+1.71563E+12,12310,HTTP Request,200,OK,ConTest 1-91,,TRUE,,147,116,67,67,https://localhost:8443/,12310,0,9805
+1.71563E+12,11885,HTTP Request,200,OK,ConTest 1-99,,TRUE,,147,116,67,67,https://localhost:8443/,11884,0,8423
+1.71563E+12,37716,HTTP Request,200,OK,ConTest 1-12,,TRUE,,147,116,67,67,https://localhost:8443/,37716,0,34434
+1.71563E+12,40195,HTTP Request,200,OK,ConTest 1-81,,TRUE,,147,116,67,67,https://localhost:8443/,40195,0,35995
+1.71563E+12,22996,HTTP Request,200,OK,ConTest 1-45,,TRUE,,147,116,67,67,https://localhost:8443/,22996,0,19672
+1.71563E+12,133827,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-76,text,FALSE,,3161,0,67,67,https://localhost:8443/,0,0,133827
+1.71563E+12,133484,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-3,text,FALSE,,3161,0,67,67,https://localhost:8443/,0,0,133484
+1.71563E+12,9764,HTTP Request,200,OK,ConTest 1-12,,TRUE,,147,116,67,67,https://localhost:8443/,9763,0,5442
+1.71563E+12,73092,HTTP Request,200,OK,ConTest 1-59,,TRUE,,147,116,67,67,https://localhost:8443/,73092,0,69731
+1.71563E+12,98263,HTTP Request,200,OK,ConTest 1-56,,TRUE,,147,116,67,67,https://localhost:8443/,98263,0,95483
+1.71563E+12,133158,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-75,text,FALSE,,3161,0,67,67,https://localhost:8443/,0,0,133158
+1.71563E+12,71130,HTTP Request,200,OK,ConTest 1-87,,TRUE,,147,116,67,67,https://localhost:8443/,71130,0,67700
+1.71563E+12,71288,HTTP Request,200,OK,ConTest 1-6,,TRUE,,147,116,67,67,https://localhost:8443/,71288,0,68332
+1.71563E+12,22899,HTTP Request,200,OK,ConTest 1-73,,TRUE,,147,116,66,66,https://localhost:8443/,22899,0,18245
+1.71563E+12,130818,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-49,text,FALSE,,3161,0,66,66,https://localhost:8443/,0,0,130818
+1.71563E+12,131297,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-66,text,FALSE,,3161,0,66,66,https://localhost:8443/,0,0,131297
+1.71563E+12,6064,HTTP Request,200,OK,ConTest 1-56,,TRUE,,147,116,65,65,https://localhost:8443/,6064,0,2609
+1.71563E+12,13246,HTTP Request,200,OK,ConTest 1-59,,TRUE,,147,116,65,65,https://localhost:8443/,13246,0,10034
+1.71563E+12,129874,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-53,text,FALSE,,3161,0,65,65,https://localhost:8443/,0,0,129874
+1.71563E+12,133257,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-29,text,FALSE,,3161,0,65,65,https://localhost:8443/,0,0,133257
+1.71563E+12,117846,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-82,text,FALSE,,3161,0,65,65,https://localhost:8443/,0,0,117846
+1.71563E+12,182229,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-83,text,FALSE,,3161,0,65,65,https://localhost:8443/,0,0,182229
+1.71563E+12,199638,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-77,text,FALSE,,3161,0,65,65,https://localhost:8443/,0,0,199638
+1.71563E+12,133147,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-21,text,FALSE,,3161,0,65,65,https://localhost:8443/,0,0,133147
+1.71563E+12,199664,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-34,text,FALSE,,3161,0,65,65,https://localhost:8443/,0,0,199664
+1.71563E+12,195437,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-90,text,FALSE,,3161,0,65,65,https://localhost:8443/,0,0,195437
+1.71563E+12,200054,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-11,text,FALSE,,3161,0,64,64,https://localhost:8443/,0,0,200053
+1.71563E+12,200101,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-39,text,FALSE,,3161,0,64,64,https://localhost:8443/,0,0,200101
+1.71563E+12,7282,HTTP Request,200,OK,ConTest 1-59,,TRUE,,147,116,64,64,https://localhost:8443/,7282,0,4570
+1.71563E+12,32121,HTTP Request,200,OK,ConTest 1-99,,TRUE,,147,116,64,64,https://localhost:8443/,32121,0,28406
+1.71563E+12,131924,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-1,text,FALSE,,3161,0,63,63,https://localhost:8443/,0,0,131924
+1.71563E+12,132823,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-22,text,FALSE,,3161,0,62,62,https://localhost:8443/,0,0,132823
+1.71563E+12,133433,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-92,text,FALSE,,3161,0,61,61,https://localhost:8443/,0,0,133433
+1.71563E+12,71976,HTTP Request,200,OK,ConTest 1-4,,TRUE,,147,116,61,61,https://localhost:8443/,71975,0,68361
+1.71563E+12,6746,HTTP Request,200,OK,ConTest 1-39,,TRUE,,147,116,61,61,https://localhost:8443/,6746,0,2595
+1.71563E+12,72067,HTTP Request,200,OK,ConTest 1-52,,TRUE,,147,116,61,61,https://localhost:8443/,72067,0,68970
+1.71563E+12,133132,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-94,text,FALSE,,3161,0,60,60,https://localhost:8443/,0,0,133132
+1.71563E+12,130447,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-84,text,FALSE,,3161,0,60,60,https://localhost:8443/,0,0,130447
+1.71563E+12,133582,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-16,text,FALSE,,3161,0,60,60,https://localhost:8443/,0,0,133582
+1.71563E+12,133226,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-80,text,FALSE,,3161,0,60,60,https://localhost:8443/,0,0,133226
+1.71563E+12,10493,HTTP Request,200,OK,ConTest 1-11,,TRUE,,147,116,60,60,https://localhost:8443/,10492,0,6722
+1.71563E+12,6880,HTTP Request,200,OK,ConTest 1-92,,TRUE,,147,116,60,60,https://localhost:8443/,6880,0,3174
+1.71563E+12,8016,HTTP Request,200,OK,ConTest 1-39,,TRUE,,147,116,60,60,https://localhost:8443/,8016,0,4148
+1.71563E+12,130513,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-85,text,FALSE,,3161,0,60,60,https://localhost:8443/,0,0,130513
+1.71563E+12,132993,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-24,text,FALSE,,3161,0,60,60,https://localhost:8443/,0,0,132993
+1.71563E+12,133054,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-95,text,FALSE,,3161,0,60,60,https://localhost:8443/,0,0,133054
+1.71563E+12,10450,HTTP Request,200,OK,ConTest 1-4,,TRUE,,147,116,60,60,https://localhost:8443/,10450,0,6957
+1.71563E+12,5687,HTTP Request,200,OK,ConTest 1-92,,TRUE,,147,116,60,60,https://localhost:8443/,5686,0,2740
+1.71563E+12,37774,HTTP Request,200,OK,ConTest 1-12,,TRUE,,147,116,60,60,https://localhost:8443/,37774,0,34988
+1.71563E+12,8406,HTTP Request,200,OK,ConTest 1-84,,TRUE,,147,116,60,60,https://localhost:8443/,8406,0,3172
+1.71563E+12,130290,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-5,text,FALSE,,3161,0,60,60,https://localhost:8443/,0,0,130290
+1.71563E+12,72079,HTTP Request,200,OK,ConTest 1-71,,TRUE,,147,116,60,60,https://localhost:8443/,72078,0,67810
+1.71563E+12,22902,HTTP Request,200,OK,ConTest 1-34,,TRUE,,147,116,60,60,https://localhost:8443/,22902,0,19040
+1.71563E+12,11030,HTTP Request,200,OK,ConTest 1-85,,TRUE,,147,116,60,60,https://localhost:8443/,11030,0,5830
+1.71563E+12,39317,HTTP Request,200,OK,ConTest 1-87,,TRUE,,147,116,60,60,https://localhost:8443/,39317,0,36391
+1.71563E+12,11430,HTTP Request,200,OK,ConTest 1-24,,TRUE,,147,116,59,59,https://localhost:8443/,11429,0,7112
+1.71563E+12,40460,HTTP Request,200,OK,ConTest 1-73,,TRUE,,147,116,59,59,https://localhost:8443/,40459,0,34999
+1.71563E+12,98087,HTTP Request,200,OK,ConTest 1-31,,TRUE,,147,116,58,58,https://localhost:8443/,98087,0,93113
+1.71563E+12,15848,HTTP Request,200,OK,ConTest 1-4,,TRUE,,147,116,58,58,https://localhost:8443/,15847,0,11871
+1.71563E+12,16830,HTTP Request,200,OK,ConTest 1-92,,TRUE,,147,116,58,58,https://localhost:8443/,16829,0,13467
+1.71563E+12,131709,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-15,text,FALSE,,3161,0,57,57,https://localhost:8443/,0,0,131709
+1.71563E+12,133185,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-48,text,FALSE,,3161,0,57,57,https://localhost:8443/,0,0,133185
+1.71563E+12,135068,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-51,text,FALSE,,3161,0,56,56,https://localhost:8443/,0,0,135068
+1.71563E+12,41438,HTTP Request,200,OK,ConTest 1-29,,TRUE,,147,116,56,56,https://localhost:8443/,41438,0,38772
+1.71563E+12,23990,HTTP Request,200,OK,ConTest 1-95,,TRUE,,147,116,55,55,https://localhost:8443/,23990,0,19089
+1.71563E+12,132827,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-46,text,FALSE,,3161,0,55,55,https://localhost:8443/,0,0,132827
+1.71563E+12,14675,HTTP Request,200,OK,ConTest 1-24,,TRUE,,147,116,55,55,https://localhost:8443/,14675,0,9786
+1.71563E+12,24109,HTTP Request,200,OK,ConTest 1-84,,TRUE,,147,116,55,55,https://localhost:8443/,24109,0,19275
+1.71563E+12,6858,HTTP Request,200,OK,ConTest 1-51,,TRUE,,147,116,54,54,https://localhost:8443/,6857,0,3393
+1.71563E+12,24628,HTTP Request,200,OK,ConTest 1-5,,TRUE,,147,116,54,54,https://localhost:8443/,24628,0,21385
+1.71563E+12,71661,HTTP Request,200,OK,ConTest 1-45,,TRUE,,147,116,53,53,https://localhost:8443/,71661,0,68958
+1.71563E+12,21769,HTTP Request,200,OK,ConTest 1-85,,TRUE,,147,116,52,52,https://localhost:8443/,21768,0,18091
+1.71563E+12,38179,HTTP Request,200,OK,ConTest 1-16,,TRUE,,147,116,52,52,https://localhost:8443/,38179,0,35016
+1.71563E+12,7010,HTTP Request,200,OK,ConTest 1-51,,TRUE,,147,116,52,52,https://localhost:8443/,7010,0,3477
+1.71563E+12,16548,HTTP Request,200,OK,ConTest 1-95,,TRUE,,147,116,52,52,https://localhost:8443/,16547,0,10914
+1.71563E+12,133326,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-10,text,FALSE,,3161,0,51,51,https://localhost:8443/,0,0,133326
+1.71563E+12,71887,HTTP Request,200,OK,ConTest 1-75,,TRUE,,147,116,51,51,https://localhost:8443/,71887,0,68717
+1.71563E+12,40436,HTTP Request,200,OK,ConTest 1-71,,TRUE,,147,116,50,50,https://localhost:8443/,40436,0,35233
+1.71563E+12,133188,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-67,text,FALSE,,3161,0,50,50,https://localhost:8443/,0,0,133188
+1.71563E+12,47983,HTTP Request,200,OK,ConTest 1-39,,TRUE,,147,116,50,50,https://localhost:8443/,47983,0,42532
+1.71563E+12,23276,HTTP Request,200,OK,ConTest 1-46,,TRUE,,147,116,50,50,https://localhost:8443/,23276,0,19902
+1.71563E+12,133033,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-96,text,FALSE,,3161,0,50,50,https://localhost:8443/,0,0,133033
+1.71563E+12,133033,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-17,text,FALSE,,3161,0,50,50,https://localhost:8443/,0,0,133033
+1.71563E+12,132865,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-44,text,FALSE,,3161,0,50,50,https://localhost:8443/,0,0,132865
+1.71563E+12,132942,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-79,text,FALSE,,3161,0,50,50,https://localhost:8443/,0,0,132941
+1.71563E+12,133064,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-64,text,FALSE,,3161,0,50,50,https://localhost:8443/,0,0,133064
+1.71563E+12,132959,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-68,text,FALSE,,3161,0,50,50,https://localhost:8443/,0,0,132959
+1.71563E+12,133034,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-2,text,FALSE,,3161,0,50,50,https://localhost:8443/,0,0,133033
+1.71563E+12,133116,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-40,text,FALSE,,3161,0,50,50,https://localhost:8443/,0,0,133116
+1.71563E+12,133036,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-62,text,FALSE,,3161,0,49,49,https://localhost:8443/,0,0,133036
+1.71563E+12,132990,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-36,text,FALSE,,3161,0,49,49,https://localhost:8443/,0,0,132990
+1.71563E+12,133030,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-69,text,FALSE,,3161,0,49,49,https://localhost:8443/,0,0,133030
+1.71563E+12,133069,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-18,text,FALSE,,3161,0,49,49,https://localhost:8443/,0,0,133069
+1.71563E+12,134587,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-88,text,FALSE,,3161,0,49,49,https://localhost:8443/,0,0,134587
+1.71563E+12,132954,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-60,text,FALSE,,3161,0,49,49,https://localhost:8443/,0,0,132954
+1.71563E+12,6541,HTTP Request,200,OK,ConTest 1-39,,TRUE,,147,116,48,48,https://localhost:8443/,6541,0,3784
+1.71563E+12,9794,HTTP Request,200,OK,ConTest 1-71,,TRUE,,147,116,47,47,https://localhost:8443/,9793,0,4085
+1.71563E+12,6210,HTTP Request,200,OK,ConTest 1-40,,TRUE,,147,116,46,46,https://localhost:8443/,6209,0,3261
+1.71563E+12,11124,HTTP Request,200,OK,ConTest 1-67,,TRUE,,147,116,46,46,https://localhost:8443/,11124,0,6263
+1.71563E+12,6550,HTTP Request,200,OK,ConTest 1-44,,TRUE,,147,116,45,45,https://localhost:8443/,6550,0,4131
+1.71563E+12,11409,HTTP Request,200,OK,ConTest 1-46,,TRUE,,147,116,45,45,https://localhost:8443/,11409,0,8557
+1.71563E+12,40209,HTTP Request,200,OK,ConTest 1-48,,TRUE,,147,116,44,44,https://localhost:8443/,40208,0,35803
+1.71563E+12,132181,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-55,text,FALSE,,3161,0,43,43,https://localhost:8443/,0,0,132181
+1.71563E+12,7013,HTTP Request,200,OK,ConTest 1-40,,TRUE,,147,116,43,43,https://localhost:8443/,7013,0,3208
+1.71563E+12,15032,HTTP Request,200,OK,ConTest 1-62,,TRUE,,147,116,43,43,https://localhost:8443/,15032,0,10956
+1.71563E+12,133301,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-13,text,FALSE,,3161,0,43,43,https://localhost:8443/,0,0,133301
+1.71563E+12,132831,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-70,text,FALSE,,3161,0,43,43,https://localhost:8443/,0,0,132831
+1.71563E+12,149831,HTTP Request,200,OK,ConTest 1-47,,TRUE,,147,116,43,43,https://localhost:8443/,149831,0,146797
+1.71563E+12,73504,HTTP Request,200,OK,ConTest 1-94,,TRUE,,147,116,43,43,https://localhost:8443/,73504,0,68861
+1.71563E+12,8247,HTTP Request,200,OK,ConTest 1-55,,TRUE,,147,116,43,43,https://localhost:8443/,8246,0,4950
+1.71563E+12,37657,HTTP Request,200,OK,ConTest 1-85,,TRUE,,147,116,43,43,https://localhost:8443/,37656,0,35048
+1.71563E+12,6205,HTTP Request,200,OK,ConTest 1-62,,TRUE,,147,116,42,42,https://localhost:8443/,6205,0,2354
+1.71563E+12,22270,HTTP Request,200,OK,ConTest 1-69,,TRUE,,147,116,42,42,https://localhost:8443/,22270,0,18951
+1.71563E+12,24250,HTTP Request,200,OK,ConTest 1-36,,TRUE,,147,116,42,42,https://localhost:8443/,24250,0,20763
+1.71563E+12,131402,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-72,text,FALSE,,3161,0,42,42,https://localhost:8443/,0,0,131402
+1.71563E+12,129902,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-19,text,FALSE,,3161,0,41,41,https://localhost:8443/,0,0,129902
+1.71563E+12,14015,HTTP Request,200,OK,ConTest 1-40,,TRUE,,147,116,41,41,https://localhost:8443/,14015,0,10417
+1.71563E+12,71995,HTTP Request,200,OK,ConTest 1-34,,TRUE,,147,116,40,40,https://localhost:8443/,71995,0,68259
+1.71563E+12,39122,HTTP Request,200,OK,ConTest 1-10,,TRUE,,147,116,40,40,https://localhost:8443/,39122,0,35712
+1.71563E+12,102476,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-53,text,FALSE,,3161,0,39,39,https://localhost:8443/,0,0,102476
+1.71563E+12,133236,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-37,text,FALSE,,3161,0,39,39,https://localhost:8443/,0,0,133236
+1.71563E+12,15006,HTTP Request,200,OK,ConTest 1-94,,TRUE,,147,116,39,39,https://localhost:8443/,15006,0,9623
+1.71563E+12,10835,HTTP Request,200,OK,ConTest 1-62,,TRUE,,147,116,39,39,https://localhost:8443/,10835,0,6425
+1.71563E+12,8770,HTTP Request,200,OK,ConTest 1-36,,TRUE,,147,116,38,38,https://localhost:8443/,8770,0,6541
+1.71563E+12,69877,HTTP Request,200,OK,ConTest 1-31,,TRUE,,147,116,38,38,https://localhost:8443/,69877,0,67834
+1.71563E+12,10328,HTTP Request,200,OK,ConTest 1-19,,TRUE,,147,116,38,38,https://localhost:8443/,10328,0,6395
+1.71563E+12,134611,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-91,text,FALSE,,3161,0,37,37,https://localhost:8443/,0,0,134611
+1.71563E+12,39562,HTTP Request,200,OK,ConTest 1-18,,TRUE,,147,116,36,36,https://localhost:8443/,39562,0,35243
+1.71563E+12,21358,HTTP Request,200,OK,ConTest 1-55,,TRUE,,147,116,36,36,https://localhost:8443/,21358,0,18694
+1.71563E+12,40058,HTTP Request,200,OK,ConTest 1-96,,TRUE,,147,116,35,35,https://localhost:8443/,40058,0,36410
+1.71563E+12,133844,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-81,text,FALSE,,3161,0,35,35,https://localhost:8443/,0,0,133844
+1.71563E+12,133457,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-76,text,FALSE,,3161,0,35,35,https://localhost:8443/,0,0,133457
+1.71563E+12,15182,HTTP Request,200,OK,ConTest 1-34,,TRUE,,147,116,35,35,https://localhost:8443/,15182,0,10559
+1.71563E+12,12331,HTTP Request,200,OK,ConTest 1-36,,TRUE,,147,116,35,35,https://localhost:8443/,12331,0,7062
+1.71563E+12,5988,HTTP Request,200,OK,ConTest 1-96,,TRUE,,147,116,34,34,https://localhost:8443/,5988,0,3795
+1.71563E+12,39524,HTTP Request,200,OK,ConTest 1-44,,TRUE,,147,116,34,34,https://localhost:8443/,39523,0,36274
+1.71563E+12,15300,HTTP Request,200,OK,ConTest 1-53,,TRUE,,147,116,34,34,https://localhost:8443/,15299,0,10873
+1.71563E+12,132904,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-3,text,FALSE,,3161,0,33,33,https://localhost:8443/,0,0,132904
+1.71563E+12,7659,HTTP Request,200,OK,ConTest 1-76,,TRUE,,147,116,32,32,https://localhost:8443/,7659,0,4132
+1.71563E+12,7483,HTTP Request,200,OK,ConTest 1-34,,TRUE,,147,116,31,31,https://localhost:8443/,7483,0,3223
+1.71563E+12,21918,HTTP Request,200,OK,ConTest 1-37,,TRUE,,147,116,30,30,https://localhost:8443/,21918,0,18900
+1.71563E+12,133123,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-49,text,FALSE,,3161,0,29,29,https://localhost:8443/,0,0,133123
+1.71563E+12,10289,HTTP Request,200,OK,ConTest 1-44,,TRUE,,147,116,28,28,https://localhost:8443/,10288,0,6565
+1.71563E+12,132597,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-56,text,FALSE,,3161,0,27,27,https://localhost:8443/,0,0,132597
+1.71563E+12,22761,HTTP Request,200,OK,ConTest 1-31,,TRUE,,147,116,26,26,https://localhost:8443/,22761,0,19572
+1.71563E+12,14567,HTTP Request,200,OK,ConTest 1-96,,TRUE,,147,116,26,26,https://localhost:8443/,14566,0,10778
+1.71563E+12,39020,HTTP Request,200,OK,ConTest 1-69,,TRUE,,147,116,25,25,https://localhost:8443/,39020,0,35633
+1.71563E+12,133058,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-82,text,FALSE,,3161,0,25,25,https://localhost:8443/,0,0,133058
+1.71563E+12,133132,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-83,text,FALSE,,3161,0,25,25,https://localhost:8443/,0,0,133132
+1.71563E+12,22326,HTTP Request,200,OK,ConTest 1-81,,TRUE,,147,116,25,25,https://localhost:8443/,22326,0,18129
+1.71563E+12,6914,HTTP Request,200,OK,ConTest 1-31,,TRUE,,147,116,25,25,https://localhost:8443/,6914,0,3805
+1.71563E+12,133298,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-21,text,FALSE,,3161,0,24,24,https://localhost:8443/,0,0,133298
+1.71563E+12,131327,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-59,text,FALSE,,3161,0,24,24,https://localhost:8443/,0,0,131327
+1.71563E+12,133510,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-77,text,FALSE,,3161,0,23,23,https://localhost:8443/,0,0,133510
+1.71563E+12,6110,HTTP Request,200,OK,ConTest 1-82,,TRUE,,147,116,23,23,https://localhost:8443/,6110,0,2792
+1.71563E+12,6210,HTTP Request,200,OK,ConTest 1-83,,TRUE,,147,116,22,22,https://localhost:8443/,6209,0,3104
+1.71563E+12,6708,HTTP Request,200,OK,ConTest 1-69,,TRUE,,147,116,22,22,https://localhost:8443/,6708,0,1319
+1.71563E+12,7235,HTTP Request,200,OK,ConTest 1-81,,TRUE,,147,116,21,21,https://localhost:8443/,7235,0,4169
+1.71563E+12,40546,HTTP Request,200,OK,ConTest 1-94,,TRUE,,147,116,20,20,https://localhost:8443/,40545,0,36489
+1.71563E+12,8007,HTTP Request,200,OK,ConTest 1-77,,TRUE,,147,116,20,20,https://localhost:8443/,8007,0,5703
+1.71563E+12,9917,HTTP Request,200,OK,ConTest 1-21,,TRUE,,147,116,20,20,https://localhost:8443/,9917,0,4248
+1.71563E+12,132560,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-11,text,FALSE,,3161,0,19,19,https://localhost:8443/,0,0,132560
+1.71563E+12,132867,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-80,text,FALSE,,3161,0,19,19,https://localhost:8443/,0,0,132867
+1.71563E+12,9897,HTTP Request,200,OK,ConTest 1-83,,TRUE,,147,116,19,19,https://localhost:8443/,9897,0,6089
+1.71563E+12,38194,HTTP Request,200,OK,ConTest 1-18,,TRUE,,147,116,18,18,https://localhost:8443/,38194,0,35434
+1.71563E+12,5559,HTTP Request,200,OK,ConTest 1-77,,TRUE,,147,116,18,18,https://localhost:8443/,5559,0,2769
+1.71563E+12,11484,HTTP Request,200,OK,ConTest 1-94,,TRUE,,147,116,18,18,https://localhost:8443/,11483,0,5993
+1.71563E+12,6385,HTTP Request,200,OK,ConTest 1-18,,TRUE,,147,116,17,17,https://localhost:8443/,6385,0,2201
+1.71563E+12,8900,HTTP Request,200,OK,ConTest 1-11,,TRUE,,147,116,16,16,https://localhost:8443/,8899,0,4685
+1.71563E+12,5459,HTTP Request,200,OK,ConTest 1-77,,TRUE,,147,116,16,16,https://localhost:8443/,5458,0,2851
+1.71563E+12,9229,HTTP Request,200,OK,ConTest 1-80,,TRUE,,147,116,15,15,https://localhost:8443/,9229,0,5433
+1.71563E+12,134782,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-12,text,FALSE,,3161,0,15,15,https://localhost:8443/,0,0,134782
+1.71563E+12,3224,HTTP Request,200,OK,ConTest 1-11,,TRUE,,147,116,14,14,https://localhost:8443/,3224,0,388
+1.71563E+12,5293,HTTP Request,200,OK,ConTest 1-80,,TRUE,,147,116,13,13,https://localhost:8443/,5293,0,1279
+1.71563E+12,5906,HTTP Request,200,OK,ConTest 1-80,,TRUE,,147,116,13,13,https://localhost:8443/,5906,0,629
+1.71563E+12,131949,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-4,text,FALSE,,3161,0,12,12,https://localhost:8443/,0,0,131949
+1.71563E+12,85359,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-47,text,FALSE,,3161,0,11,11,https://localhost:8443/,0,0,85359
+1.71563E+12,132763,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-24,text,FALSE,,3161,0,11,11,https://localhost:8443/,0,0,132763
+1.71563E+12,5781,HTTP Request,200,OK,ConTest 1-47,,TRUE,,147,116,10,10,https://localhost:8443/,5781,0,727
+1.71563E+12,3192,HTTP Request,200,OK,ConTest 1-47,,TRUE,,147,116,10,10,https://localhost:8443/,3191,0,373
+1.71563E+12,130525,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-16,text,FALSE,,3161,0,9,9,https://localhost:8443/,0,0,130525
+1.71563E+12,116046,HTTP Request,200,OK,ConTest 1-68,,TRUE,,147,116,8,8,https://localhost:8443/,116046,0,113342
+1.71563E+12,134199,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-51,text,FALSE,,3161,0,8,8,https://localhost:8443/,0,0,134199
+1.71563E+12,6309,HTTP Request,200,OK,ConTest 1-68,,TRUE,,147,116,7,7,https://localhost:8443/,6309,0,625
+1.71563E+12,133268,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-64,text,FALSE,,3161,0,6,6,https://localhost:8443/,0,0,133268
+1.71563E+12,133269,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-79,text,FALSE,,3161,0,6,6,https://localhost:8443/,0,0,133269
+1.71563E+12,133242,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-60,text,FALSE,,3161,0,6,6,https://localhost:8443/,0,0,133241
+1.71563E+12,133593,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-17,text,FALSE,,3161,0,6,6,https://localhost:8443/,0,0,133592
+1.71563E+12,3385,HTTP Request,200,OK,ConTest 1-79,,TRUE,,147,116,6,6,https://localhost:8443/,3385,0,535
+1.71563E+12,6353,HTTP Request,200,OK,ConTest 1-60,,TRUE,,147,116,6,6,https://localhost:8443/,6353,0,4342
+1.71563E+12,6514,HTTP Request,200,OK,ConTest 1-64,,TRUE,,147,116,6,6,https://localhost:8443/,6514,0,2982
+1.71563E+12,6700,HTTP Request,200,OK,ConTest 1-79,,TRUE,,147,116,6,6,https://localhost:8443/,6700,0,2087
+1.71563E+12,4554,HTTP Request,200,OK,ConTest 1-60,,TRUE,,147,116,5,5,https://localhost:8443/,4554,0,1534
+1.71563E+12,6466,HTTP Request,200,OK,ConTest 1-64,,TRUE,,147,116,4,4,https://localhost:8443/,6466,0,2839
+1.71563E+12,132892,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-70,text,FALSE,,3161,0,3,3,https://localhost:8443/,0,0,132892
+1.71563E+12,133116,HTTP Request,Non HTTP response code: javax.net.ssl.SSLHandshakeException,Non HTTP response message: Remote host terminated the handshake,ConTest 1-13,text,FALSE,,3161,0,2,2,https://localhost:8443/,0,0,133116
+1.71563E+12,15643,HTTP Request,200,OK,ConTest 1-17,,TRUE,,147,116,2,2,https://localhost:8443/,15643,0,12296
+1.71563E+12,4707,HTTP Request,200,OK,ConTest 1-13,,TRUE,,147,116,2,2,https://localhost:8443/,4707,0,629
+1.71563E+12,5137,HTTP Request,200,OK,ConTest 1-17,,TRUE,,147,116,2,2,https://localhost:8443/,5137,0,918
+1.71563E+12,7437,HTTP Request,200,OK,ConTest 1-13,,TRUE,,147,116,1,1,https://localhost:8443/,7437,0,509
